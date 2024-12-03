@@ -1,0 +1,45 @@
+{
+  "entityType" : "TB_RESOURCE",
+  "entity" : {
+    "customerId" : {
+      "entityType" : "CUSTOMER",
+      "id" : "13814000-1dd2-11b2-8080-808080808080"
+    },
+    "data" : "77u/PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyMDAgMjAwJz48cGF0aCBmaWxsPScjMDBBNjI4JyBzdHJva2U9JyMwMEE2MjgnIHN0cm9rZS13aWR0aD0nMTInIHRyYW5zZm9ybS1vcmlnaW49J2NlbnRlcicgZD0nbTE0OCA4NC43IDEzLjgtOC0xMC0xNy4zLTEzLjggOGE1MCA1MCAwIDAgMC0yNy40LTE1Ljl2LTE2aC0yMHYxNkE1MCA1MCAwIDAgMCA2MyA2Ny40bC0xMy44LTgtMTAgMTcuMyAxMy44IDhhNTAgNTAgMCAwIDAgMCAzMS43bC0xMy44IDggMTAgMTcuMyAxMy44LThhNTAgNTAgMCAwIDAgMjcuNSAxNS45djE2aDIwdi0xNmE1MCA1MCAwIDAgMCAyNy40LTE1LjlsMTMuOCA4IDEwLTE3LjMtMTMuOC04YTUwIDUwIDAgMCAwIDAtMzEuN1ptLTQ3LjUgNTAuOGEzNSAzNSAwIDEgMSAwLTcwIDM1IDM1IDAgMCAxIDAgNzBaJz48YW5pbWF0ZVRyYW5zZm9ybSB0eXBlPSdyb3RhdGUnIGF0dHJpYnV0ZU5hbWU9J3RyYW5zZm9ybScgY2FsY01vZGU9J3NwbGluZScgZHVyPScyJyB2YWx1ZXM9JzA7MTIwJyBrZXlUaW1lcz0nMDsxJyBrZXlTcGxpbmVzPScwIDAgMSAxJyByZXBlYXRDb3VudD0naW5kZWZpbml0ZSc+PC9hbmltYXRlVHJhbnNmb3JtPjwvcGF0aD48L3N2Zz4=",
+    "descriptor" : {
+      "mediaType" : "image/svg+xml",
+      "width" : 200,
+      "height" : 200,
+      "size" : 635,
+      "etag" : "93d0c0cc91d649297bc14d883b62b04439f7406399cf511c7ae8be9bc4cbbb45",
+      "previewDescriptor" : {
+        "mediaType" : "image/svg+xml",
+        "width" : 200,
+        "height" : 200,
+        "size" : 635,
+        "etag" : "93d0c0cc91d649297bc14d883b62b04439f7406399cf511c7ae8be9bc4cbbb45"
+      }
+    },
+    "etag" : "93d0c0cc91d649297bc14d883b62b04439f7406399cf511c7ae8be9bc4cbbb45",
+    "externalId" : null,
+    "fileName" : "gear-spinner.svg",
+    "id" : {
+      "entityType" : "TB_RESOURCE",
+      "id" : "8ce268c0-8136-11ef-bc66-95d41aad3098"
+    },
+    "link" : "/api/images/tenant/gear-spinner.svg",
+    "name" : "gear-spinner.svg",
+    "preview" : null,
+    "public" : true,
+    "publicLink" : "/api/images/public/qn4KzQJI7kKfts3bzmGyA3EAwB4Kahf0",
+    "publicResourceKey" : "qn4KzQJI7kKfts3bzmGyA3EAwB4Kahf0",
+    "resourceKey" : "gear-spinner.svg",
+    "resourceSubType" : "IMAGE",
+    "resourceType" : "IMAGE",
+    "title" : "gear-spinner.svg"
+  },
+  "relations" : [ ],
+  "attributes" : {
+    "SERVER_SCOPE" : [ ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "entityType" : "TB_RESOURCE",
+  "entity" : {
+    "customerId" : {
+      "entityType" : "CUSTOMER",
+      "id" : "13814000-1dd2-11b2-8080-808080808080"
+    },
+    "data" : "PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJ4TWlkWU1pZCIgd2lkdGg9IjIyNCIgaGVpZ2h0PSIyMjQiIHN0eWxlPSJzaGFwZS1yZW5kZXJpbmc6IGF1dG87IGRpc3BsYXk6IGJsb2NrOyBiYWNrZ3JvdW5kOiB0cmFuc3BhcmVudDsiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj48Zz48Y2lyY2xlIGZpbGw9IiNlMDAwMGYiIHI9IjM1IiBjeT0iNDUiIGN4PSI1MCI+CiAgPGFuaW1hdGUgdmFsdWVzPSI0NTs1NTs0NSIga2V5VGltZXM9IjA7MC41OzEiIGtleVNwbGluZXM9IjAuNDUgMCAwLjkgMC41NTswIDAuNDUgMC41NSAwLjkiIGNhbGNNb2RlPSJzcGxpbmUiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiBkdXI9IjFzIiBhdHRyaWJ1dGVOYW1lPSJjeSI+PC9hbmltYXRlPgo8L2NpcmNsZT48Zz48L2c+PC9nPjwhLS0gW2xkaW9dIGdlbmVyYXRlZCBieSBodHRwczovL2xvYWRpbmcuaW8gLS0+PC9zdmc+",
+    "descriptor" : {
+      "mediaType" : "image/svg+xml",
+      "width" : 224,
+      "height" : 224,
+      "size" : 531,
+      "etag" : "c70e35709894da792c014f7bb5883e7942755e4cf1f094e87df3434f7097f346",
+      "previewDescriptor" : {
+        "mediaType" : "image/svg+xml",
+        "width" : 224,
+        "height" : 224,
+        "size" : 531,
+        "etag" : "c70e35709894da792c014f7bb5883e7942755e4cf1f094e87df3434f7097f346"
+      }
+    },
+    "etag" : "c70e35709894da792c014f7bb5883e7942755e4cf1f094e87df3434f7097f346",
+    "externalId" : null,
+    "fileName" : "Ball@1x-1.0s-200px-200px.svg",
+    "id" : {
+      "entityType" : "TB_RESOURCE",
+      "id" : "1c89e070-8141-11ef-bc66-95d41aad3098"
+    },
+    "link" : "/api/images/tenant/Ball@1x-1.0s-200px-200px.svg",
+    "name" : "Ball@1x-1.0s-200px-200px.svg",
+    "preview" : null,
+    "public" : true,
+    "publicLink" : "/api/images/public/4740udyAgfkXTAVQQNSnbypWRqaN5QIa",
+    "publicResourceKey" : "4740udyAgfkXTAVQQNSnbypWRqaN5QIa",
+    "resourceKey" : "Ball@1x-1.0s-200px-200px.svg",
+    "resourceSubType" : "IMAGE",
+    "resourceType" : "IMAGE",
+    "title" : "Ball@1x-1.0s-200px-200px.svg"
+  },
+  "relations" : [ ],
+  "attributes" : {
+    "SERVER_SCOPE" : [ ]
+  }
+}

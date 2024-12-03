@@ -1,0 +1,45 @@
+{
+  "entityType" : "TB_RESOURCE",
+  "entity" : {
+    "customerId" : {
+      "entityType" : "CUSTOMER",
+      "id" : "13814000-1dd2-11b2-8080-808080808080"
+    },
+    "data" : "PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4bWxuczp0Yj0iaHR0cHM6Ly90aGluZ3Nib2FyZC5pby9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJ4TWlkWU1pZCIgd2lkdGg9IjIyNCIgaGVpZ2h0PSIyMjQiIHN0eWxlPSJzaGFwZS1yZW5kZXJpbmc6IGF1dG87IGRpc3BsYXk6IGJsb2NrOyBiYWNrZ3JvdW5kOiB0cmFuc3BhcmVudDsiPjx0YjptZXRhZGF0YSB4bWxucz0iIj48IVtDREFUQVt7CiAgInRpdGxlIjogIkJhbGxAMXgtMS4wcy0yMDBweC0yMDBweC5zdmciLAogICJ3aWRnZXRTaXplWCI6IDEsCiAgIndpZGdldFNpemVZIjogMSwKICAidGFncyI6IFtdLAogICJiZWhhdmlvciI6IFtdLAogICJwcm9wZXJ0aWVzIjogW10KfV1dPjwvdGI6bWV0YWRhdGE+CjxnPjxjaXJjbGUgZmlsbD0iI2UwMDAwZiIgcj0iMzUiIGN5PSI0NSIgY3g9IjUwIj4KICA8YW5pbWF0ZSB2YWx1ZXM9IjQ1OzU1OzQ1IiBrZXlUaW1lcz0iMDswLjU7MSIga2V5U3BsaW5lcz0iMC40NSAwIDAuOSAwLjU1OzAgMC40NSAwLjU1IDAuOSIgY2FsY01vZGU9InNwbGluZSIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIGR1cj0iMXMiIGF0dHJpYnV0ZU5hbWU9ImN5Ii8+CjwvY2lyY2xlPjxnLz48L2c+PCEtLSBbbGRpb10gZ2VuZXJhdGVkIGJ5IGh0dHBzOi8vbG9hZGluZy5pbyAtLT4KPC9zdmc+",
+    "descriptor" : {
+      "mediaType" : "image/svg+xml",
+      "width" : 224,
+      "height" : 224,
+      "size" : 744,
+      "etag" : "8f83d0e685602d11a43ee7a27fadf5b8f31297537277dba8b1dc08e914df8013",
+      "previewDescriptor" : {
+        "mediaType" : "image/svg+xml",
+        "width" : 224,
+        "height" : 224,
+        "size" : 559,
+        "etag" : "229deb7b4c1884f068bc521df5e53762a62f0a2cbb10865d7452dcc498b7e430"
+      }
+    },
+    "etag" : "8f83d0e685602d11a43ee7a27fadf5b8f31297537277dba8b1dc08e914df8013",
+    "externalId" : null,
+    "fileName" : "Ball@1x-1.0s-200px-200px.svg",
+    "id" : {
+      "entityType" : "TB_RESOURCE",
+      "id" : "0ec0e560-8754-11ef-9d34-ef917f8eaa89"
+    },
+    "link" : "/api/images/tenant/Ball@1x-1.0s-200px-200px_(1).svg",
+    "name" : "Ball@1x-1.0s-200px-200px.svg",
+    "preview" : null,
+    "public" : true,
+    "publicLink" : "/api/images/public/DnQlf9JdoiSdc7ex9ss0F3X2FNEJMIlf",
+    "publicResourceKey" : "DnQlf9JdoiSdc7ex9ss0F3X2FNEJMIlf",
+    "resourceKey" : "Ball@1x-1.0s-200px-200px_(1).svg",
+    "resourceSubType" : "SCADA_SYMBOL",
+    "resourceType" : "IMAGE",
+    "title" : "Ball@1x-1.0s-200px-200px.svg"
+  },
+  "relations" : [ ],
+  "attributes" : {
+    "SERVER_SCOPE" : [ ]
+  }
+}

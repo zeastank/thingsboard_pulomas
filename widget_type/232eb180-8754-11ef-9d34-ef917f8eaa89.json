@@ -1,0 +1,36 @@
+{
+  "entityType" : "WIDGET_TYPE",
+  "entity" : {
+    "fqn" : "ball_1x_1_0s_200px_200px_svg",
+    "name" : "Ball@1x-1.0s-200px-200px.svg",
+    "deprecated" : false,
+    "image" : "tb-image:QmFsbEAxeC0xLjBzLTIwMHB4LTIwMHB4XygxKS5zdmc=:QmFsbEAxeC0xLjBzLTIwMHB4LTIwMHB4LnN2Zw==:U0NBREFfU1lNQk9M;data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4bWxuczp0Yj0iaHR0cHM6Ly90aGluZ3Nib2FyZC5pby9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJ4TWlkWU1pZCIgd2lkdGg9IjIyNCIgaGVpZ2h0PSIyMjQiIHN0eWxlPSJzaGFwZS1yZW5kZXJpbmc6IGF1dG87IGRpc3BsYXk6IGJsb2NrOyBiYWNrZ3JvdW5kOiB0cmFuc3BhcmVudDsiPjx0YjptZXRhZGF0YSB4bWxucz0iIj48IVtDREFUQVt7CiAgInRpdGxlIjogIkJhbGxAMXgtMS4wcy0yMDBweC0yMDBweC5zdmciLAogICJ3aWRnZXRTaXplWCI6IDEsCiAgIndpZGdldFNpemVZIjogMSwKICAidGFncyI6IFtdLAogICJiZWhhdmlvciI6IFtdLAogICJwcm9wZXJ0aWVzIjogW10KfV1dPjwvdGI6bWV0YWRhdGE+CjxnPjxjaXJjbGUgZmlsbD0iI2UwMDAwZiIgcj0iMzUiIGN5PSI0NSIgY3g9IjUwIj4KICA8YW5pbWF0ZSB2YWx1ZXM9IjQ1OzU1OzQ1IiBrZXlUaW1lcz0iMDswLjU7MSIga2V5U3BsaW5lcz0iMC40NSAwIDAuOSAwLjU1OzAgMC40NSAwLjU1IDAuOSIgY2FsY01vZGU9InNwbGluZSIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIGR1cj0iMXMiIGF0dHJpYnV0ZU5hbWU9ImN5Ii8+CjwvY2lyY2xlPjxnLz48L2c+PCEtLSBbbGRpb10gZ2VuZXJhdGVkIGJ5IGh0dHBzOi8vbG9hZGluZy5pbyAtLT4KPC9zdmc+",
+    "description" : null,
+    "descriptor" : {
+      "type" : "rpc",
+      "sizeX" : 1,
+      "sizeY" : 1,
+      "resources" : [ ],
+      "templateHtml" : "<tb-scada-symbol-widget\n    [ctx]='ctx'\n    [widgetTitlePanel]=\"widgetTitlePanel\">\n</tb-scada-symbol-widget>",
+      "templateCss" : "",
+      "controllerScript" : "self.onInit = function() {\n    self.ctx.$scope.actionWidget.onInit();\n}\n\nself.typeParameters = function() {\n    return {\n        previewWidth: '100px',\n        previewHeight: '120px',\n        embedTitlePanel: true,\n        targetDeviceOptional: true,\n        displayRpcMessageToast: false\n    };\n};\n\nself.onDestroy = function() {\n}\n",
+      "settingsSchema" : "",
+      "dataKeySettingsSchema" : "{}\n",
+      "settingsDirective" : "tb-scada-symbol-widget-settings",
+      "hasBasicMode" : true,
+      "basicModeDirective" : "tb-scada-symbol-basic-config",
+      "defaultConfig" : "{\"showTitle\":true,\"backgroundColor\":\"rgba(0, 0, 0, 0)\",\"color\":\"rgba(0, 0, 0, 0.87)\",\"padding\":\"0px\",\"settings\":{\"background\":{\"type\":\"color\",\"imageUrl\":null,\"color\":\"rgb(255, 255, 255)\",\"overlay\":{\"enabled\":false,\"color\":\"rgba(255,255,255,0.72)\",\"blur\":3}},\"padding\":\"12px\",\"scadaSymbolUrl\":\"tb-image:QmFsbEAxeC0xLjBzLTIwMHB4LTIwMHB4XygxKS5zdmc=:QmFsbEAxeC0xLjBzLTIwMHB4LTIwMHB4LnN2Zw==:U0NBREFfU1lNQk9M;data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4bWxuczp0Yj0iaHR0cHM6Ly90aGluZ3Nib2FyZC5pby9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJ4TWlkWU1pZCIgd2lkdGg9IjIyNCIgaGVpZ2h0PSIyMjQiIHN0eWxlPSJzaGFwZS1yZW5kZXJpbmc6IGF1dG87IGRpc3BsYXk6IGJsb2NrOyBiYWNrZ3JvdW5kOiB0cmFuc3BhcmVudDsiPjx0YjptZXRhZGF0YSB4bWxucz0iIj48IVtDREFUQVt7CiAgInRpdGxlIjogIkJhbGxAMXgtMS4wcy0yMDBweC0yMDBweC5zdmciLAogICJ3aWRnZXRTaXplWCI6IDEsCiAgIndpZGdldFNpemVZIjogMSwKICAidGFncyI6IFtdLAogICJiZWhhdmlvciI6IFtdLAogICJwcm9wZXJ0aWVzIjogW10KfV1dPjwvdGI6bWV0YWRhdGE+CjxnPjxjaXJjbGUgZmlsbD0iI2UwMDAwZiIgcj0iMzUiIGN5PSI0NSIgY3g9IjUwIj4KICA8YW5pbWF0ZSB2YWx1ZXM9IjQ1OzU1OzQ1IiBrZXlUaW1lcz0iMDswLjU7MSIga2V5U3BsaW5lcz0iMC40NSAwIDAuOSAwLjU1OzAgMC40NSAwLjU1IDAuOSIgY2FsY01vZGU9InNwbGluZSIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIGR1cj0iMXMiIGF0dHJpYnV0ZU5hbWU9ImN5Ii8+CjwvY2lyY2xlPjxnLz48L2c+PCEtLSBbbGRpb10gZ2VuZXJhdGVkIGJ5IGh0dHBzOi8vbG9hZGluZy5pbyAtLT4KPC9zdmc+\",\"scadaSymbolObjectSettings\":{\"behavior\":{},\"properties\":{}}},\"title\":\"Ball@1x-1.0s-200px-200px.svg\",\"dropShadow\":true,\"enableFullscreen\":false,\"widgetStyle\":{},\"actions\":{},\"widgetCss\":\"\",\"noDataDisplayMessage\":\"\",\"titleFont\":{\"size\":16,\"sizeUnit\":\"px\",\"family\":\"Roboto\",\"weight\":\"500\",\"style\":null,\"lineHeight\":\"1.6\"},\"showTitleIcon\":false,\"titleTooltip\":\"\",\"titleStyle\":null,\"pageSize\":1024,\"titleIcon\":\"mdi:lightbulb-outline\",\"iconColor\":\"rgba(0, 0, 0, 0.87)\",\"iconSize\":\"24px\",\"configMode\":\"basic\",\"targetDevice\":null,\"titleColor\":null,\"borderRadius\":\"0px\",\"margin\":\"0px\"}"
+    },
+    "externalId" : null,
+    "id" : {
+      "entityType" : "WIDGET_TYPE",
+      "id" : "232eb180-8754-11ef-9d34-ef917f8eaa89"
+    },
+    "scada" : true,
+    "tags" : null
+  },
+  "relations" : [ ],
+  "attributes" : {
+    "SERVER_SCOPE" : [ ]
+  }
+}

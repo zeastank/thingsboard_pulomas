@@ -1,0 +1,45 @@
+{
+  "entityType" : "ASSET",
+  "entity" : {
+    "additionalInfo" : {
+      "description" : ""
+    },
+    "assetProfileId" : {
+      "entityType" : "ASSET_PROFILE",
+      "id" : "0f4975e0-596b-11ef-b8b0-73d01487652b"
+    },
+    "customerId" : {
+      "entityType" : "CUSTOMER",
+      "id" : "13814000-1dd2-11b2-8080-808080808080"
+    },
+    "externalId" : null,
+    "id" : {
+      "entityType" : "ASSET",
+      "id" : "feced060-6a96-11ef-bc66-95d41aad3098"
+    },
+    "label" : "Pulomas 2",
+    "name" : "Pulomas 2",
+    "ownerId" : null,
+    "type" : "default"
+  },
+  "relations" : [ ],
+  "attributes" : {
+    "SERVER_SCOPE" : [ {
+      "booleanValue" : null,
+      "doubleValue" : -6.168153276090324,
+      "jsonValue" : null,
+      "key" : "latitude",
+      "lastUpdateTs" : 1725438242819,
+      "longValue" : null,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : 106.88108297825576,
+      "jsonValue" : null,
+      "key" : "longitude",
+      "lastUpdateTs" : 1725438255327,
+      "longValue" : null,
+      "strValue" : null
+    } ]
+  }
+}

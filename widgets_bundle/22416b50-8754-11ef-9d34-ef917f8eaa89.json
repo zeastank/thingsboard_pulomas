@@ -1,0 +1,22 @@
+{
+  "entityType" : "WIDGETS_BUNDLE",
+  "entity" : {
+    "alias" : "scada1",
+    "description" : "",
+    "externalId" : null,
+    "id" : {
+      "entityType" : "WIDGETS_BUNDLE",
+      "id" : "22416b50-8754-11ef-9d34-ef917f8eaa89"
+    },
+    "image" : "",
+    "name" : "SCADA1",
+    "order" : null,
+    "scada" : true,
+    "title" : "SCADA1"
+  },
+  "fqns" : [ "ball_1x_1_0s_200px_200px_svg" ],
+  "relations" : [ ],
+  "attributes" : {
+    "SERVER_SCOPE" : [ ]
+  }
+}

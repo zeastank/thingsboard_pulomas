@@ -1,0 +1,93 @@
+{
+  "entityType" : "ASSET",
+  "entity" : {
+    "additionalInfo" : {
+      "description" : ""
+    },
+    "assetProfileId" : {
+      "entityType" : "ASSET_PROFILE",
+      "id" : "0f4975e0-596b-11ef-b8b0-73d01487652b"
+    },
+    "customerId" : {
+      "entityType" : "CUSTOMER",
+      "id" : "13814000-1dd2-11b2-8080-808080808080"
+    },
+    "externalId" : null,
+    "id" : {
+      "entityType" : "ASSET",
+      "id" : "d9b23bf0-6a96-11ef-bc66-95d41aad3098"
+    },
+    "label" : "Pulomas 1",
+    "name" : "Pulomas 1",
+    "ownerId" : null,
+    "type" : "default"
+  },
+  "relations" : [ ],
+  "attributes" : {
+    "SERVER_SCOPE" : [ {
+      "booleanValue" : null,
+      "doubleValue" : -6.16655415306722,
+      "jsonValue" : null,
+      "key" : "latitude",
+      "lastUpdateTs" : 1725438188303,
+      "longValue" : null,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : 106.88108736809758,
+      "jsonValue" : null,
+      "key" : "longitude",
+      "lastUpdateTs" : 1725438203319,
+      "longValue" : null,
+      "strValue" : null
+    }, {
+      "booleanValue" : false,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "pl1_p1",
+      "lastUpdateTs" : 1725439951985,
+      "longValue" : null,
+      "strValue" : null
+    }, {
+      "booleanValue" : false,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "pl1_p2",
+      "lastUpdateTs" : 1725439963109,
+      "longValue" : null,
+      "strValue" : null
+    }, {
+      "booleanValue" : false,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "pl1_p3",
+      "lastUpdateTs" : 1725439972990,
+      "longValue" : null,
+      "strValue" : null
+    }, {
+      "booleanValue" : false,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "pl2_p1",
+      "lastUpdateTs" : 1725439989975,
+      "longValue" : null,
+      "strValue" : null
+    }, {
+      "booleanValue" : false,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "pl2_p2",
+      "lastUpdateTs" : 1725440000449,
+      "longValue" : null,
+      "strValue" : null
+    }, {
+      "booleanValue" : false,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "pl2_p3",
+      "lastUpdateTs" : 1725440009077,
+      "longValue" : null,
+      "strValue" : null
+    } ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "entityType" : "TB_RESOURCE",
+  "entity" : {
+    "customerId" : {
+      "entityType" : "CUSTOMER",
+      "id" : "13814000-1dd2-11b2-8080-808080808080"
+    },
+    "data" : "PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJ4TWlkWU1pZCIgd2lkdGg9IjIwNSIgaGVpZ2h0PSIyMDUiIHN0eWxlPSJzaGFwZS1yZW5kZXJpbmc6IGF1dG87IGRpc3BsYXk6IGJsb2NrOyBiYWNrZ3JvdW5kOiByZ2JhKDI1NSwgMjU1LCAyNTUsIDApOyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPjxnPjxjaXJjbGUgc3Ryb2tlLXdpZHRoPSIyMCIgc3Ryb2tlPSIjZDcwMDAwIiBmaWxsPSJub25lIiByPSIwIiBjeT0iNTAiIGN4PSI1MCI+CiAgPGFuaW1hdGUgYmVnaW49IjBzIiBjYWxjTW9kZT0ic3BsaW5lIiBrZXlTcGxpbmVzPSIwIDAuMiAwLjggMSIga2V5VGltZXM9IjA7MSIgdmFsdWVzPSIwOzI5IiBkdXI9IjEuMTc2NDcwNTg4MjM1Mjk0MnMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiBhdHRyaWJ1dGVOYW1lPSJyIj48L2FuaW1hdGU+CiAgPGFuaW1hdGUgYmVnaW49IjBzIiBjYWxjTW9kZT0ic3BsaW5lIiBrZXlTcGxpbmVzPSIwLjIgMCAwLjggMSIga2V5VGltZXM9IjA7MSIgdmFsdWVzPSIxOzAiIGR1cj0iMS4xNzY0NzA1ODgyMzUyOTQycyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIGF0dHJpYnV0ZU5hbWU9Im9wYWNpdHkiPjwvYW5pbWF0ZT4KPC9jaXJjbGU+PGNpcmNsZSBzdHJva2Utd2lkdGg9IjIwIiBzdHJva2U9IiNjMjAwMDAiIGZpbGw9Im5vbmUiIHI9IjAiIGN5PSI1MCIgY3g9IjUwIj4KICA8YW5pbWF0ZSBiZWdpbj0iLTAuNTg4MjM1Mjk0MTE3NjQ3MXMiIGNhbGNNb2RlPSJzcGxpbmUiIGtleVNwbGluZXM9IjAgMC4yIDAuOCAxIiBrZXlUaW1lcz0iMDsxIiB2YWx1ZXM9IjA7MjkiIGR1cj0iMS4xNzY0NzA1ODgyMzUyOTQycyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIGF0dHJpYnV0ZU5hbWU9InIiPjwvYW5pbWF0ZT4KICA8YW5pbWF0ZSBiZWdpbj0iLTAuNTg4MjM1Mjk0MTE3NjQ3MXMiIGNhbGNNb2RlPSJzcGxpbmUiIGtleVNwbGluZXM9IjAuMiAwIDAuOCAxIiBrZXlUaW1lcz0iMDsxIiB2YWx1ZXM9IjE7MCIgZHVyPSIxLjE3NjQ3MDU4ODIzNTI5NDJzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSI+PC9hbmltYXRlPgo8L2NpcmNsZT48Zz48L2c+PC9nPjwhLS0gW2xkaW9dIGdlbmVyYXRlZCBieSBodHRwczovL2xvYWRpbmcuaW8gLS0+PC9zdmc+",
+    "descriptor" : {
+      "mediaType" : "image/svg+xml",
+      "width" : 205,
+      "height" : 205,
+      "size" : 1227,
+      "etag" : "a9fbb25becc638e76567e9af67fbc8da4e159bae911ad99d321455f6cb9ee54b",
+      "previewDescriptor" : {
+        "mediaType" : "image/svg+xml",
+        "width" : 205,
+        "height" : 205,
+        "size" : 1227,
+        "etag" : "a9fbb25becc638e76567e9af67fbc8da4e159bae911ad99d321455f6cb9ee54b"
+      }
+    },
+    "etag" : "a9fbb25becc638e76567e9af67fbc8da4e159bae911ad99d321455f6cb9ee54b",
+    "externalId" : null,
+    "fileName" : "Ripple@1x-1.2s-200px-200px.svg",
+    "id" : {
+      "entityType" : "TB_RESOURCE",
+      "id" : "b8c449e0-813b-11ef-bc66-95d41aad3098"
+    },
+    "link" : "/api/images/tenant/Ripple@1x-1.2s-200px-200px.svg",
+    "name" : "Ripple@1x-1.2s-200px-200px.svg",
+    "preview" : null,
+    "public" : true,
+    "publicLink" : "/api/images/public/g72Ogh2MKeRxnzUqp95wtJtjhl2jNEj4",
+    "publicResourceKey" : "g72Ogh2MKeRxnzUqp95wtJtjhl2jNEj4",
+    "resourceKey" : "Ripple@1x-1.2s-200px-200px.svg",
+    "resourceSubType" : "IMAGE",
+    "resourceType" : "IMAGE",
+    "title" : "Ripple@1x-1.2s-200px-200px.svg"
+  },
+  "relations" : [ ],
+  "attributes" : {
+    "SERVER_SCOPE" : [ ]
+  }
+}
