@@ -21,7 +21,10 @@
       }
     },
     "etag" : "e5731c1579b429f691d8273edca4d972d33f5836bb57cc9fdee60acb7f6402b4",
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "TB_RESOURCE",
+      "id" : "39fdf6d0-8760-11ef-9d34-ef917f8eaa89"
+    },
     "fileName" : "pm2 v5.svg",
     "id" : {
       "entityType" : "TB_RESOURCE",
@@ -37,9 +40,5 @@
     "resourceSubType" : "SCADA_SYMBOL",
     "resourceType" : "IMAGE",
     "title" : "pm2 v5.svg"
-  },
-  "relations" : [ ],
-  "attributes" : {
-    "SERVER_SCOPE" : [ ]
   }
 }

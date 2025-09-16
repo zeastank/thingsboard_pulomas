@@ -21,7 +21,10 @@
       }
     },
     "etag" : "93d0c0cc91d649297bc14d883b62b04439f7406399cf511c7ae8be9bc4cbbb45",
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "TB_RESOURCE",
+      "id" : "8ce268c0-8136-11ef-bc66-95d41aad3098"
+    },
     "fileName" : "gear-spinner.svg",
     "id" : {
       "entityType" : "TB_RESOURCE",
@@ -37,9 +40,5 @@
     "resourceSubType" : "IMAGE",
     "resourceType" : "IMAGE",
     "title" : "gear-spinner.svg"
-  },
-  "relations" : [ ],
-  "attributes" : {
-    "SERVER_SCOPE" : [ ]
   }
 }

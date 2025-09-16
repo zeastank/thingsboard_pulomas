@@ -18,7 +18,10 @@
       }
     },
     "etag" : "f4ede7e96db8ae018f6ef3c661773b79e129ab589af148ac56edf1df2de236e1",
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "TB_RESOURCE",
+      "id" : "2a049680-5a97-11ef-bc66-95d41aad3098"
+    },
     "fileName" : "silos_monitoring_no_banner_dashboard_widget_bus_locations_marker_image_1.svg",
     "id" : {
       "entityType" : "TB_RESOURCE",
@@ -34,9 +37,5 @@
     "resourceSubType" : "IMAGE",
     "resourceType" : "IMAGE",
     "title" : "\"Silos monitoring no banner\" dashboard widget \"Bus locations\" marker image 1"
-  },
-  "relations" : [ ],
-  "attributes" : {
-    "SERVER_SCOPE" : [ ]
   }
 }

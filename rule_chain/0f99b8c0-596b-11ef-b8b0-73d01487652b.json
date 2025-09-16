@@ -4,7 +4,10 @@
     "additionalInfo" : null,
     "configuration" : null,
     "debugMode" : false,
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "RULE_CHAIN",
+      "id" : "0f99b8c0-596b-11ef-b8b0-73d01487652b"
+    },
     "firstRuleNodeId" : {
       "entityType" : "RULE_NODE",
       "id" : "0fb61a60-596b-11ef-b8b0-73d01487652b"
@@ -62,13 +65,13 @@
           "type" : "pdf",
           "timezone" : "Europe/Kiev",
           "useCurrentUserCredentials" : true,
-          "userId" : "7c82bf30-4d61-11e8-ad73-455e6191039d",
-          "dashboardId" : "62097e80-6fa0-11e8-9b36-a959bde06125"
+          "userId" : "46a341a0-9179-11f0-bf85-f15ad45fc0bf",
+          "dashboardId" : "46a341a0-9179-11f0-bf85-f15ad45fc0bf"
         }
       },
       "configurationVersion" : 0,
       "createdTime" : 0,
-      "debugMode" : false,
+      "debugSettings" : null,
       "externalId" : null,
       "id" : {
         "entityType" : "RULE_NODE",
@@ -91,7 +94,7 @@
       },
       "configurationVersion" : 0,
       "createdTime" : 0,
-      "debugMode" : false,
+      "debugSettings" : null,
       "externalId" : null,
       "id" : {
         "entityType" : "RULE_NODE",
@@ -114,7 +117,7 @@
       },
       "configurationVersion" : 0,
       "createdTime" : 0,
-      "debugMode" : false,
+      "debugSettings" : null,
       "externalId" : null,
       "id" : {
         "entityType" : "RULE_NODE",
@@ -140,7 +143,7 @@
       },
       "configurationVersion" : 0,
       "createdTime" : 0,
-      "debugMode" : false,
+      "debugSettings" : null,
       "externalId" : null,
       "id" : {
         "entityType" : "RULE_NODE",
@@ -168,7 +171,7 @@
       },
       "configurationVersion" : 0,
       "createdTime" : 0,
-      "debugMode" : false,
+      "debugSettings" : null,
       "externalId" : null,
       "id" : {
         "entityType" : "RULE_NODE",
@@ -190,7 +193,7 @@
       },
       "configurationVersion" : 0,
       "createdTime" : 0,
-      "debugMode" : false,
+      "debugSettings" : null,
       "externalId" : null,
       "id" : {
         "entityType" : "RULE_NODE",

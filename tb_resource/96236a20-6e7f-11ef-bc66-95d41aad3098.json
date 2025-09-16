@@ -16,12 +16,15 @@
         "mediaType" : "image/png",
         "width" : 250,
         "height" : 140,
-        "size" : 68127,
-        "etag" : "33fc0265e3e79da4b66bbbfb9fd33e76d2c809c4543267731a58ba27bc9c16ad"
+        "size" : 67551,
+        "etag" : "58f623afb1befe450f9920516a07a92c962e907533014f4db196d6f8f72b0722"
       }
     },
     "etag" : "51fa014f7bf063e251480df881a7c4e6d9cee4e46cc3531ac72ccb752b66714e",
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "TB_RESOURCE",
+      "id" : "96236a20-6e7f-11ef-bc66-95d41aad3098"
+    },
     "fileName" : "3.jpg",
     "id" : {
       "entityType" : "TB_RESOURCE",
@@ -37,9 +40,5 @@
     "resourceSubType" : "IMAGE",
     "resourceType" : "IMAGE",
     "title" : "3.jpg"
-  },
-  "relations" : [ ],
-  "attributes" : {
-    "SERVER_SCOPE" : [ ]
   }
 }

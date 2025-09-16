@@ -21,7 +21,10 @@
       }
     },
     "etag" : "1b5ac350b814dd6a2f7ef64f12ca093125f03544fbde59cd4550133a321a1633",
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "TB_RESOURCE",
+      "id" : "e306a140-813f-11ef-bc66-95d41aad3098"
+    },
     "fileName" : "Gear@1x-0.4s-200px-200px (2).svg",
     "id" : {
       "entityType" : "TB_RESOURCE",
@@ -37,9 +40,5 @@
     "resourceSubType" : "IMAGE",
     "resourceType" : "IMAGE",
     "title" : "Gear@1x-0.4s-200px-200px (2).svg"
-  },
-  "relations" : [ ],
-  "attributes" : {
-    "SERVER_SCOPE" : [ ]
   }
 }

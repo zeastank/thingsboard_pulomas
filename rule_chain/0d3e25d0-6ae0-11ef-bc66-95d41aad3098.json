@@ -6,7 +6,10 @@
     },
     "configuration" : null,
     "debugMode" : true,
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "RULE_CHAIN",
+      "id" : "0d3e25d0-6ae0-11ef-bc66-95d41aad3098"
+    },
     "firstRuleNodeId" : null,
     "id" : {
       "entityType" : "RULE_CHAIN",
@@ -44,7 +47,7 @@
       },
       "configurationVersion" : 2,
       "createdTime" : 0,
-      "debugMode" : false,
+      "debugSettings" : null,
       "externalId" : null,
       "id" : {
         "entityType" : "RULE_NODE",
@@ -66,7 +69,7 @@
       },
       "configurationVersion" : 0,
       "createdTime" : 0,
-      "debugMode" : false,
+      "debugSettings" : null,
       "externalId" : null,
       "id" : {
         "entityType" : "RULE_NODE",
@@ -85,12 +88,14 @@
       },
       "configuration" : {
         "defaultTTL" : 0,
-        "skipLatestPersistence" : false,
-        "useServerTs" : false
+        "useServerTs" : false,
+        "processingSettings" : {
+          "type" : "ON_EVERY_MESSAGE"
+        }
       },
-      "configurationVersion" : 0,
+      "configurationVersion" : 1,
       "createdTime" : 0,
-      "debugMode" : false,
+      "debugSettings" : null,
       "externalId" : null,
       "id" : {
         "entityType" : "RULE_NODE",

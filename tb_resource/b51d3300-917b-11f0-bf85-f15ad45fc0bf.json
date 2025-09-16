@@ -1,0 +1,41 @@
+{
+  "entityType" : "TB_RESOURCE",
+  "entity" : {
+    "customerId" : {
+      "entityType" : "CUSTOMER",
+      "id" : "cc2ffce0-917a-11f0-bf85-f15ad45fc0bf"
+    },
+    "data" : "PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJ4TWlkWU1pZCIgd2lkdGg9IjIwMCIgaGVpZ2h0PSIyMDAiIHN0eWxlPSJzaGFwZS1yZW5kZXJpbmc6IGF1dG87IGRpc3BsYXk6IGJsb2NrOyBiYWNrZ3JvdW5kOiB0cmFuc3BhcmVudDsiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj48Zz48Y2lyY2xlIHN0cm9rZS1kYXNoYXJyYXk9IjExMy4wOTczMzU1MjkyMzI1NSAzOS42OTkxMTE4NDMwNzc1MiIgcj0iMjQiIHN0cm9rZS13aWR0aD0iNDgiIHN0cm9rZT0iIzM3OTkwMCIgZmlsbD0ibm9uZSIgY3k9IjUwIiBjeD0iNTAiPgogIDxhbmltYXRlVHJhbnNmb3JtIGtleVRpbWVzPSIwOzEiIHZhbHVlcz0iMCA1MCA1MDszNjAgNTAgNTAiIGR1cj0iMS4yNXMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiB0eXBlPSJyb3RhdGUiIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSI+PC9hbmltYXRlVHJhbnNmb3JtPgo8L2NpcmNsZT48Zz48L2c+PC9nPjwhLS0gW2xkaW9dIGdlbmVyYXRlZCBieSBodHRwczovL2xvYWRpbmcuaW8gLS0+PC9zdmc+",
+    "descriptor" : {
+      "mediaType" : "image/svg+xml",
+      "width" : 200,
+      "height" : 200,
+      "size" : 603,
+      "etag" : "a2fdb931ec8c4ffece4595ab42e0fdccf6700673bb544cca9a74a21c15f7a0ae",
+      "previewDescriptor" : {
+        "mediaType" : "image/svg+xml",
+        "width" : 200,
+        "height" : 200,
+        "size" : 603,
+        "etag" : "a2fdb931ec8c4ffece4595ab42e0fdccf6700673bb544cca9a74a21c15f7a0ae"
+      }
+    },
+    "etag" : "a2fdb931ec8c4ffece4595ab42e0fdccf6700673bb544cca9a74a21c15f7a0ae",
+    "externalId" : null,
+    "fileName" : "Rolling@1x-1.3s-200px-200px.svg",
+    "id" : {
+      "entityType" : "TB_RESOURCE",
+      "id" : "b51d3300-917b-11f0-bf85-f15ad45fc0bf"
+    },
+    "link" : "/api/images/tenant/Rolling@1x-1.3s-200px-200px_(1).svg",
+    "name" : "Rolling@1x-1.3s-200px-200px.svg",
+    "preview" : null,
+    "public" : true,
+    "publicLink" : "/api/images/public/EME3ucWGpQ8hUz17QY8ebRg8488YXkVz",
+    "publicResourceKey" : "EME3ucWGpQ8hUz17QY8ebRg8488YXkVz",
+    "resourceKey" : "Rolling@1x-1.3s-200px-200px_(1).svg",
+    "resourceSubType" : "IMAGE",
+    "resourceType" : "IMAGE",
+    "title" : "Rolling@1x-1.3s-200px-200px.svg"
+  }
+}

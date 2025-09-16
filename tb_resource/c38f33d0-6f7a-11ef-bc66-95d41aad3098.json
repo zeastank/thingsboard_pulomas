@@ -16,12 +16,15 @@
         "mediaType" : "image/png",
         "width" : 250,
         "height" : 156,
-        "size" : 52077,
-        "etag" : "4789a5baef089f54f090dff571c6b14b6a47dabd0708b1ac8f8f5426989def7c"
+        "size" : 51563,
+        "etag" : "87daa149a519319851597f2cc32ca1873f6100daec3aeb2445baa2b22bfd15c4"
       }
     },
     "etag" : "4e5c99d7286c253cd7e652ae136e04f4bd20614273300d1625a2996271a6cdbd",
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "TB_RESOURCE",
+      "id" : "c38f33d0-6f7a-11ef-bc66-95d41aad3098"
+    },
     "fileName" : "bluish-purple-gradient-pajqixc44jlzwbfr.jpg",
     "id" : {
       "entityType" : "TB_RESOURCE",
@@ -37,9 +40,5 @@
     "resourceSubType" : "IMAGE",
     "resourceType" : "IMAGE",
     "title" : "bluish-purple-gradient-pajqixc44jlzwbfr.jpg"
-  },
-  "relations" : [ ],
-  "attributes" : {
-    "SERVER_SCOPE" : [ ]
   }
 }

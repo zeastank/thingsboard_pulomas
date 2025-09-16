@@ -21,7 +21,10 @@
       }
     },
     "etag" : "8f83d0e685602d11a43ee7a27fadf5b8f31297537277dba8b1dc08e914df8013",
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "TB_RESOURCE",
+      "id" : "0ec0e560-8754-11ef-9d34-ef917f8eaa89"
+    },
     "fileName" : "Ball@1x-1.0s-200px-200px.svg",
     "id" : {
       "entityType" : "TB_RESOURCE",
@@ -37,9 +40,5 @@
     "resourceSubType" : "SCADA_SYMBOL",
     "resourceType" : "IMAGE",
     "title" : "Ball@1x-1.0s-200px-200px.svg"
-  },
-  "relations" : [ ],
-  "attributes" : {
-    "SERVER_SCOPE" : [ ]
   }
 }

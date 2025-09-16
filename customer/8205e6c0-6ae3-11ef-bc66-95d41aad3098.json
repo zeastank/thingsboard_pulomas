@@ -14,7 +14,10 @@
     "customMenuId" : null,
     "customerId" : null,
     "email" : null,
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "CUSTOMER",
+      "id" : "8205e6c0-6ae3-11ef-bc66-95d41aad3098"
+    },
     "id" : {
       "entityType" : "CUSTOMER",
       "id" : "8205e6c0-6ae3-11ef-bc66-95d41aad3098"

@@ -21,7 +21,10 @@
       }
     },
     "etag" : "e959edb2fc4dde708850463a79cedd670eaf8a166afcaa6190aebbc7ad98480d",
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "TB_RESOURCE",
+      "id" : "121846e0-7020-11ef-bc66-95d41aad3098"
+    },
     "fileName" : "status stop.png",
     "id" : {
       "entityType" : "TB_RESOURCE",
@@ -37,9 +40,5 @@
     "resourceSubType" : "IMAGE",
     "resourceType" : "IMAGE",
     "title" : "status stop.png"
-  },
-  "relations" : [ ],
-  "attributes" : {
-    "SERVER_SCOPE" : [ ]
   }
 }

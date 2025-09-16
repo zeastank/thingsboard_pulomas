@@ -16,12 +16,15 @@
         "mediaType" : "image/png",
         "width" : 250,
         "height" : 140,
-        "size" : 52701,
-        "etag" : "a90dc30a1f5d485b392e92ee63004384e05d9d5bdd487b77d26937a61cb3e56a"
+        "size" : 51996,
+        "etag" : "c0a1a8353d1da613a4b0a89105ea2d33046bd71bb35e24fce1613865e4595bed"
       }
     },
     "etag" : "b6e9cbf65d40045474e895babfbd9d57ecfd4953c1fbe55e5eb54831736395f7",
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "TB_RESOURCE",
+      "id" : "d01783f0-6f7a-11ef-bc66-95d41aad3098"
+    },
     "fileName" : "iStock-1039532442.jpg",
     "id" : {
       "entityType" : "TB_RESOURCE",
@@ -37,9 +40,5 @@
     "resourceSubType" : "IMAGE",
     "resourceType" : "IMAGE",
     "title" : "iStock-1039532442.jpg"
-  },
-  "relations" : [ ],
-  "attributes" : {
-    "SERVER_SCOPE" : [ ]
   }
 }

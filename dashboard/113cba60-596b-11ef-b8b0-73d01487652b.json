@@ -1,7 +1,10 @@
 {
   "entityType" : "DASHBOARD",
   "entity" : {
-    "assignedCustomers" : null,
+    "title" : "Rule Engine Statistics",
+    "image" : null,
+    "mobileHide" : false,
+    "mobileOrder" : null,
     "configuration" : {
       "widgets" : {
         "5eb79712-5c24-3060-7e4f-6af36b8f842d" : {
@@ -1106,18 +1109,19 @@
       },
       "filters" : { }
     },
+    "name" : "Rule Engine Statistics",
+    "resources" : null,
+    "assignedCustomers" : null,
     "customerId" : null,
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "DASHBOARD",
+      "id" : "113cba60-596b-11ef-b8b0-73d01487652b"
+    },
     "id" : {
       "entityType" : "DASHBOARD",
       "id" : "113cba60-596b-11ef-b8b0-73d01487652b"
     },
-    "image" : null,
-    "mobileHide" : false,
-    "mobileOrder" : null,
-    "name" : "Rule Engine Statistics",
-    "ownerId" : null,
-    "title" : "Rule Engine Statistics"
+    "ownerId" : null
   },
   "relations" : [ ],
   "attributes" : {

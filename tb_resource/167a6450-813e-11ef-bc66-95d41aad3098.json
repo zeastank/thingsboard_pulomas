@@ -21,7 +21,10 @@
       }
     },
     "etag" : "12dde07d1dcdc59206ca20d9c18636f90b7567db08564d6aefc1e6380ba8903d",
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "TB_RESOURCE",
+      "id" : "167a6450-813e-11ef-bc66-95d41aad3098"
+    },
     "fileName" : "Blocks@1x-0.8s-200px-200px.svg",
     "id" : {
       "entityType" : "TB_RESOURCE",
@@ -37,9 +40,5 @@
     "resourceSubType" : "IMAGE",
     "resourceType" : "IMAGE",
     "title" : "Blocks@1x-0.8s-200px-200px.svg"
-  },
-  "relations" : [ ],
-  "attributes" : {
-    "SERVER_SCOPE" : [ ]
   }
 }

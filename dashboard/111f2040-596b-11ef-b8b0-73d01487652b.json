@@ -1,7 +1,10 @@
 {
   "entityType" : "DASHBOARD",
   "entity" : {
-    "assignedCustomers" : null,
+    "title" : "Software",
+    "image" : null,
+    "mobileHide" : false,
+    "mobileOrder" : null,
     "configuration" : {
       "description" : "",
       "widgets" : {
@@ -3033,18 +3036,19 @@
         "showUpdateDashboardImage" : false
       }
     },
+    "name" : "Software",
+    "resources" : null,
+    "assignedCustomers" : null,
     "customerId" : null,
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "DASHBOARD",
+      "id" : "111f2040-596b-11ef-b8b0-73d01487652b"
+    },
     "id" : {
       "entityType" : "DASHBOARD",
       "id" : "111f2040-596b-11ef-b8b0-73d01487652b"
     },
-    "image" : null,
-    "mobileHide" : false,
-    "mobileOrder" : null,
-    "name" : "Software",
-    "ownerId" : null,
-    "title" : "Software"
+    "ownerId" : null
   },
   "relations" : [ ],
   "attributes" : {

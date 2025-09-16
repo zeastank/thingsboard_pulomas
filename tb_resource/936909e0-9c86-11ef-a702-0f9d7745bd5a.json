@@ -21,7 +21,10 @@
       }
     },
     "etag" : "fb764b039a06ed908824b76391ea588a2859e065c52191342ba236c40628607f",
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "TB_RESOURCE",
+      "id" : "936909e0-9c86-11ef-a702-0f9d7745bd5a"
+    },
     "fileName" : "dashboard 1.png",
     "id" : {
       "entityType" : "TB_RESOURCE",
@@ -37,9 +40,5 @@
     "resourceSubType" : "IMAGE",
     "resourceType" : "IMAGE",
     "title" : "dashboard 1.png"
-  },
-  "relations" : [ ],
-  "attributes" : {
-    "SERVER_SCOPE" : [ ]
   }
 }

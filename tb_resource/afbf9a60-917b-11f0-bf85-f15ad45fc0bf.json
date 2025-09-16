@@ -1,0 +1,41 @@
+{
+  "entityType" : "TB_RESOURCE",
+  "entity" : {
+    "customerId" : {
+      "entityType" : "CUSTOMER",
+      "id" : "cc2ffce0-917a-11f0-bf85-f15ad45fc0bf"
+    },
+    "data" : "PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJ4TWlkWU1pZCIgd2lkdGg9IjIwMCIgaGVpZ2h0PSIyMDAiIHN0eWxlPSJzaGFwZS1yZW5kZXJpbmc6IGF1dG87IGRpc3BsYXk6IGJsb2NrOyBiYWNrZ3JvdW5kOiB0cmFuc3BhcmVudDsiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj48Zz48cmVjdCBmaWxsPSIjOTEwMDA0IiBoZWlnaHQ9IjQ4IiB3aWR0aD0iNDgiIHk9IjAiIHg9IjAiPgogIDxhbmltYXRlIGNhbGNNb2RlPSJkaXNjcmV0ZSIgYmVnaW49IjBzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgZHVyPSIwLjgxOTY3MjEzMTE0NzU0MXMiIGtleVRpbWVzPSIwOzAuMjU7MSIgdmFsdWVzPSIjZmYwMDAwOyM5MTAwMDQ7IzkxMDAwNCIgYXR0cmlidXRlTmFtZT0iZmlsbCI+PC9hbmltYXRlPgo8L3JlY3Q+PHJlY3QgZmlsbD0iIzkxMDAwNCIgaGVpZ2h0PSI0OCIgd2lkdGg9IjQ4IiB5PSIwIiB4PSI1MiI+CiAgPGFuaW1hdGUgY2FsY01vZGU9ImRpc2NyZXRlIiBiZWdpbj0iMC4yMDQ5MTgwMzI3ODY4ODUyNXMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiBkdXI9IjAuODE5NjcyMTMxMTQ3NTQxcyIga2V5VGltZXM9IjA7MC4yNTsxIiB2YWx1ZXM9IiNmZjAwMDA7IzkxMDAwNDsjOTEwMDA0IiBhdHRyaWJ1dGVOYW1lPSJmaWxsIj48L2FuaW1hdGU+CjwvcmVjdD48cmVjdCBmaWxsPSIjOTEwMDA0IiBoZWlnaHQ9IjQ4IiB3aWR0aD0iNDgiIHk9IjUyIiB4PSIwIj4KICA8YW5pbWF0ZSBjYWxjTW9kZT0iZGlzY3JldGUiIGJlZ2luPSIwLjYxNDc1NDA5ODM2MDY1NThzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgZHVyPSIwLjgxOTY3MjEzMTE0NzU0MXMiIGtleVRpbWVzPSIwOzAuMjU7MSIgdmFsdWVzPSIjZmYwMDAwOyM5MTAwMDQ7IzkxMDAwNCIgYXR0cmlidXRlTmFtZT0iZmlsbCI+PC9hbmltYXRlPgo8L3JlY3Q+PHJlY3QgZmlsbD0iIzkxMDAwNCIgaGVpZ2h0PSI0OCIgd2lkdGg9IjQ4IiB5PSI1MiIgeD0iNTIiPgogIDxhbmltYXRlIGNhbGNNb2RlPSJkaXNjcmV0ZSIgYmVnaW49IjAuNDA5ODM2MDY1NTczNzcwNXMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiBkdXI9IjAuODE5NjcyMTMxMTQ3NTQxcyIga2V5VGltZXM9IjA7MC4yNTsxIiB2YWx1ZXM9IiNmZjAwMDA7IzkxMDAwNDsjOTEwMDA0IiBhdHRyaWJ1dGVOYW1lPSJmaWxsIj48L2FuaW1hdGU+CjwvcmVjdD48Zz48L2c+PC9nPjwhLS0gW2xkaW9dIGdlbmVyYXRlZCBieSBodHRwczovL2xvYWRpbmcuaW8gLS0+PC9zdmc+",
+    "descriptor" : {
+      "mediaType" : "image/svg+xml",
+      "width" : 200,
+      "height" : 200,
+      "size" : 1320,
+      "etag" : "12dde07d1dcdc59206ca20d9c18636f90b7567db08564d6aefc1e6380ba8903d",
+      "previewDescriptor" : {
+        "mediaType" : "image/svg+xml",
+        "width" : 200,
+        "height" : 200,
+        "size" : 1320,
+        "etag" : "12dde07d1dcdc59206ca20d9c18636f90b7567db08564d6aefc1e6380ba8903d"
+      }
+    },
+    "etag" : "12dde07d1dcdc59206ca20d9c18636f90b7567db08564d6aefc1e6380ba8903d",
+    "externalId" : null,
+    "fileName" : "Blocks@1x-0.8s-200px-200px.svg",
+    "id" : {
+      "entityType" : "TB_RESOURCE",
+      "id" : "afbf9a60-917b-11f0-bf85-f15ad45fc0bf"
+    },
+    "link" : "/api/images/tenant/Blocks@1x-0.8s-200px-200px_(1).svg",
+    "name" : "Blocks@1x-0.8s-200px-200px.svg",
+    "preview" : null,
+    "public" : true,
+    "publicLink" : "/api/images/public/k3YU5WHpHuO1sgccvOonUkc2Otk7OVsj",
+    "publicResourceKey" : "k3YU5WHpHuO1sgccvOonUkc2Otk7OVsj",
+    "resourceKey" : "Blocks@1x-0.8s-200px-200px_(1).svg",
+    "resourceSubType" : "IMAGE",
+    "resourceType" : "IMAGE",
+    "title" : "Blocks@1x-0.8s-200px-200px.svg"
+  }
+}

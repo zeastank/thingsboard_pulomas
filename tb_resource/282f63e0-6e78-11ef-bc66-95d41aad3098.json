@@ -16,12 +16,15 @@
         "mediaType" : "image/png",
         "width" : 250,
         "height" : 125,
-        "size" : 51617,
-        "etag" : "a9e39d01b3d4c08d53247a8af763c578fe8b6b3ef4903aebfa471c8c65c1c3d6"
+        "size" : 51254,
+        "etag" : "cbf335b755559a37818ee7ce3a61684fec6c830cb47e941ccefe4b8bf9065c05"
       }
     },
     "etag" : "eb136edf8ca7c779dbeae786edbdce8b3cbadf68b258c57933a9e78e8285ff86",
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "TB_RESOURCE",
+      "id" : "282f63e0-6e78-11ef-bc66-95d41aad3098"
+    },
     "fileName" : "abstract-futuristic-background-with-3d-design.jpg",
     "id" : {
       "entityType" : "TB_RESOURCE",
@@ -37,9 +40,5 @@
     "resourceSubType" : "IMAGE",
     "resourceType" : "IMAGE",
     "title" : "abstract-futuristic-background-with-3d-design.jpg"
-  },
-  "relations" : [ ],
-  "attributes" : {
-    "SERVER_SCOPE" : [ ]
   }
 }

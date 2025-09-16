@@ -21,7 +21,10 @@
       }
     },
     "etag" : "d09e4fe6ecd93bf713d75f94ed8c29995bee5ea13983309dfc648af744ef98cd",
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "TB_RESOURCE",
+      "id" : "f3df2ea0-8753-11ef-9d34-ef917f8eaa89"
+    },
     "fileName" : "tes.svg",
     "id" : {
       "entityType" : "TB_RESOURCE",
@@ -37,9 +40,5 @@
     "resourceSubType" : "SCADA_SYMBOL",
     "resourceType" : "IMAGE",
     "title" : "tes.svg"
-  },
-  "relations" : [ ],
-  "attributes" : {
-    "SERVER_SCOPE" : [ ]
   }
 }

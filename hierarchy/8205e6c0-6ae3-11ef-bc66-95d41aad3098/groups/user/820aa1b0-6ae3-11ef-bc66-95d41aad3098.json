@@ -26,7 +26,10 @@
       "actions" : { }
     },
     "edgeGroupAll" : false,
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "ENTITY_GROUP",
+      "id" : "820aa1b0-6ae3-11ef-bc66-95d41aad3098"
+    },
     "groupAll" : false,
     "id" : {
       "entityType" : "ENTITY_GROUP",
@@ -45,6 +48,28 @@
   },
   "groupEntities" : true,
   "permissions" : [ {
+    "entityGroupId" : null,
+    "entityGroupType" : null,
+    "roleId" : {
+      "entityType" : "ROLE",
+      "id" : "10318bf0-596b-11ef-b8b0-73d01487652b"
+    },
+    "tenantId" : {
+      "entityType" : "TENANT",
+      "id" : "46a341a0-9179-11f0-bf85-f15ad45fc0bf"
+    },
+    "userGroupId" : {
+      "entityType" : "ENTITY_GROUP",
+      "id" : "820aa1b0-6ae3-11ef-bc66-95d41aad3098"
+    },
+    "createdTime" : 1757861704644,
+    "id" : {
+      "entityType" : "GROUP_PERMISSION",
+      "id" : "cc335840-917a-11f0-bf85-f15ad45fc0bf"
+    },
+    "name" : "GENERIC_[820aa1b0-6ae3-11ef-bc66-95d41aad3098]_[10318bf0-596b-11ef-b8b0-73d01487652b]",
+    "public" : false
+  }, {
     "entityGroupId" : {
       "entityType" : "ENTITY_GROUP",
       "id" : "427f2d00-8ad6-11ef-9d34-ef917f8eaa89"
@@ -56,40 +81,18 @@
     },
     "tenantId" : {
       "entityType" : "TENANT",
-      "id" : "0eca81e0-596b-11ef-b8b0-73d01487652b"
+      "id" : "46a341a0-9179-11f0-bf85-f15ad45fc0bf"
     },
     "userGroupId" : {
       "entityType" : "ENTITY_GROUP",
       "id" : "820aa1b0-6ae3-11ef-bc66-95d41aad3098"
     },
-    "createdTime" : 1728983831587,
+    "createdTime" : 1757862573891,
     "id" : {
       "entityType" : "GROUP_PERMISSION",
-      "id" : "428bd730-8ad6-11ef-9d34-ef917f8eaa89"
+      "id" : "d24fe930-917c-11f0-bf85-f15ad45fc0bf"
     },
     "name" : "GROUP_[820aa1b0-6ae3-11ef-bc66-95d41aad3098]_[42887bd0-8ad6-11ef-9d34-ef917f8eaa89]_[427f2d00-8ad6-11ef-9d34-ef917f8eaa89]_[DEVICE]",
-    "public" : false
-  }, {
-    "entityGroupId" : null,
-    "entityGroupType" : null,
-    "roleId" : {
-      "entityType" : "ROLE",
-      "id" : "10318bf0-596b-11ef-b8b0-73d01487652b"
-    },
-    "tenantId" : {
-      "entityType" : "TENANT",
-      "id" : "0eca81e0-596b-11ef-b8b0-73d01487652b"
-    },
-    "userGroupId" : {
-      "entityType" : "ENTITY_GROUP",
-      "id" : "820aa1b0-6ae3-11ef-bc66-95d41aad3098"
-    },
-    "createdTime" : 1725471084366,
-    "id" : {
-      "entityType" : "GROUP_PERMISSION",
-      "id" : "820b16e0-6ae3-11ef-bc66-95d41aad3098"
-    },
-    "name" : "GENERIC_[820aa1b0-6ae3-11ef-bc66-95d41aad3098]_[10318bf0-596b-11ef-b8b0-73d01487652b]",
     "public" : false
   } ]
 }

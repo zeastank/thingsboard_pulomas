@@ -21,7 +21,10 @@
       }
     },
     "etag" : "2c2d10fa82fb90fa73cb9d5e70570d91c3e35030ae2e373c23705ed2f7f31253",
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "TB_RESOURCE",
+      "id" : "9266f160-8778-11ef-9d34-ef917f8eaa89"
+    },
     "fileName" : "dashboard back 1.jpg",
     "id" : {
       "entityType" : "TB_RESOURCE",
@@ -37,9 +40,5 @@
     "resourceSubType" : "IMAGE",
     "resourceType" : "IMAGE",
     "title" : "dashboard back 1.jpg"
-  },
-  "relations" : [ ],
-  "attributes" : {
-    "SERVER_SCOPE" : [ ]
   }
 }

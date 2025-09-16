@@ -8,15 +8,14 @@
         "type" : "AFFECTED_USER"
       }
     },
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "NOTIFICATION_TARGET",
+      "id" : "0f84aa20-596b-11ef-b8b0-73d01487652b"
+    },
     "id" : {
       "entityType" : "NOTIFICATION_TARGET",
       "id" : "0f84aa20-596b-11ef-b8b0-73d01487652b"
     },
     "name" : "Affected user"
-  },
-  "relations" : [ ],
-  "attributes" : {
-    "SERVER_SCOPE" : [ ]
   }
 }

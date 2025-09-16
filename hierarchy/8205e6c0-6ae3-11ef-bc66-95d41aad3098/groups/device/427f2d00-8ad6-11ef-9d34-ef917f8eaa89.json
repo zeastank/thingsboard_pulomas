@@ -26,7 +26,10 @@
       "actions" : { }
     },
     "edgeGroupAll" : false,
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "ENTITY_GROUP",
+      "id" : "427f2d00-8ad6-11ef-9d34-ef917f8eaa89"
+    },
     "groupAll" : false,
     "id" : {
       "entityType" : "ENTITY_GROUP",
@@ -43,5 +46,6 @@
   "attributes" : {
     "SERVER_SCOPE" : [ ]
   },
+  "calculatedFields" : [ ],
   "groupEntities" : true
 }

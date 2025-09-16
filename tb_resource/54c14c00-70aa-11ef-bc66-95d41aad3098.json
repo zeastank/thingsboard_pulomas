@@ -16,12 +16,15 @@
         "mediaType" : "image/png",
         "width" : 250,
         "height" : 68,
-        "size" : 2177,
-        "etag" : "76743c0f28a175b884d33df00e9ecb6eabd9b4d848010929e718eb5376f6d07a"
+        "size" : 2058,
+        "etag" : "9c5348d51c8b2b1873e00437dcda251b113a5f4b7834881ea72e72f0bed9a7cd"
       }
     },
     "etag" : "4caa7c77b32776f34bb2dc18449a8bc61efee891e9197209fc5568b759c45582",
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "TB_RESOURCE",
+      "id" : "54c14c00-70aa-11ef-bc66-95d41aad3098"
+    },
     "fileName" : "stop.png",
     "id" : {
       "entityType" : "TB_RESOURCE",
@@ -37,9 +40,5 @@
     "resourceSubType" : "IMAGE",
     "resourceType" : "IMAGE",
     "title" : "stop.png"
-  },
-  "relations" : [ ],
-  "attributes" : {
-    "SERVER_SCOPE" : [ ]
   }
 }

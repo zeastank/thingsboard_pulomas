@@ -21,7 +21,10 @@
       }
     },
     "etag" : "ec02fc2d47e8b99bd2309e2fe417ef34bf7019c0be85e5e617fe38f263082d18",
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "TB_RESOURCE",
+      "id" : "0715dc70-8827-11ef-9d34-ef917f8eaa89"
+    },
     "fileName" : "dashboard pulomas 1 background.png",
     "id" : {
       "entityType" : "TB_RESOURCE",
@@ -37,9 +40,5 @@
     "resourceSubType" : "IMAGE",
     "resourceType" : "IMAGE",
     "title" : "dashboard pulomas 1 background.png"
-  },
-  "relations" : [ ],
-  "attributes" : {
-    "SERVER_SCOPE" : [ ]
   }
 }

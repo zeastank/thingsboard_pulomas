@@ -20,7 +20,10 @@
       "actions" : { }
     },
     "edgeGroupAll" : false,
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "ENTITY_GROUP",
+      "id" : "51631090-5d48-11ef-bc66-95d41aad3098"
+    },
     "groupAll" : false,
     "id" : {
       "entityType" : "ENTITY_GROUP",
@@ -29,7 +32,7 @@
     "name" : "Pulomas Customer",
     "ownerId" : {
       "entityType" : "TENANT",
-      "id" : "0eca81e0-596b-11ef-b8b0-73d01487652b"
+      "id" : "46a341a0-9179-11f0-bf85-f15ad45fc0bf"
     },
     "type" : "DASHBOARD"
   },

@@ -10,7 +10,10 @@
       "id" : "0fdd9f90-596b-11ef-b8b0-73d01487652b"
     },
     "description" : "Thermostat device profile",
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "DEVICE_PROFILE",
+      "id" : "11090030-596b-11ef-b8b0-73d01487652b"
+    },
     "firmwareId" : null,
     "id" : {
       "entityType" : "DEVICE_PROFILE",
@@ -37,7 +40,8 @@
                   "dynamicValue" : {
                     "inherit" : false,
                     "sourceAttribute" : "temperatureAlarmThreshold",
-                    "sourceType" : "CURRENT_DEVICE"
+                    "sourceType" : "CURRENT_DEVICE",
+                    "resolvedValue" : null
                   },
                   "userValue" : null
                 }
@@ -85,7 +89,8 @@
                     "dynamicValue" : {
                       "inherit" : false,
                       "sourceAttribute" : "temperatureAlarmThreshold",
-                      "sourceType" : "CURRENT_DEVICE"
+                      "sourceType" : "CURRENT_DEVICE",
+                      "resolvedValue" : null
                     },
                     "userValue" : null
                   }
@@ -125,7 +130,8 @@
                   "dynamicValue" : {
                     "inherit" : false,
                     "sourceAttribute" : "humidityAlarmThreshold",
-                    "sourceType" : "CURRENT_DEVICE"
+                    "sourceType" : "CURRENT_DEVICE",
+                    "resolvedValue" : null
                   },
                   "userValue" : null
                 }
@@ -173,7 +179,8 @@
                     "dynamicValue" : {
                       "inherit" : false,
                       "sourceAttribute" : "humidityAlarmThreshold",
-                      "sourceType" : "CURRENT_DEVICE"
+                      "sourceType" : "CURRENT_DEVICE",
+                      "resolvedValue" : null
                     },
                     "userValue" : null
                   }
@@ -216,5 +223,6 @@
   "relations" : [ ],
   "attributes" : {
     "SERVER_SCOPE" : [ ]
-  }
+  },
+  "calculatedFields" : [ ]
 }

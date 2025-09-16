@@ -16,12 +16,15 @@
         "mediaType" : "image/png",
         "width" : 250,
         "height" : 130,
-        "size" : 78053,
-        "etag" : "0a5baa1866034a7870b9c7a06f393ac9bcfbaac1d03f8a5053d826bb0da34186"
+        "size" : 77953,
+        "etag" : "656996a78f448b2f0f2e1f28a29f0adb31f7d09872c022f9fc9cd40c70adeeb6"
       }
     },
     "etag" : "f0338083c912ba86b91f214abd2e96a1625bc460ffef847f6463208fa4bf4881",
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "TB_RESOURCE",
+      "id" : "dc35c650-6e77-11ef-bc66-95d41aad3098"
+    },
     "fileName" : "AdobeStock_513654262-scaled.jpeg",
     "id" : {
       "entityType" : "TB_RESOURCE",
@@ -37,9 +40,5 @@
     "resourceSubType" : "IMAGE",
     "resourceType" : "IMAGE",
     "title" : "AdobeStock_513654262-scaled.jpeg"
-  },
-  "relations" : [ ],
-  "attributes" : {
-    "SERVER_SCOPE" : [ ]
   }
 }

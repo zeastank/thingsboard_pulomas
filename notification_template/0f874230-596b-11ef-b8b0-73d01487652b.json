@@ -2,6 +2,7 @@
   "entityType" : "NOTIFICATION_TEMPLATE",
   "entity" : {
     "configuration" : {
+      "attachReport" : false,
       "deliveryMethodsTemplates" : {
         "WEB" : {
           "method" : "WEB",
@@ -19,18 +20,20 @@
           "enabled" : true,
           "subject" : "Alarm '${alarmType}' - ${action}"
         }
-      }
+      },
+      "reportTemplateId" : null,
+      "timezone" : null,
+      "userId" : null
     },
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "NOTIFICATION_TEMPLATE",
+      "id" : "0f874230-596b-11ef-b8b0-73d01487652b"
+    },
     "id" : {
       "entityType" : "NOTIFICATION_TEMPLATE",
       "id" : "0f874230-596b-11ef-b8b0-73d01487652b"
     },
     "name" : "Alarm update notification",
     "notificationType" : "ALARM"
-  },
-  "relations" : [ ],
-  "attributes" : {
-    "SERVER_SCOPE" : [ ]
   }
 }

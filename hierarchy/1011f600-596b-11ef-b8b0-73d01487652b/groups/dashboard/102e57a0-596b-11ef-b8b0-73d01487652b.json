@@ -16,7 +16,10 @@
       "actions" : { }
     },
     "edgeGroupAll" : false,
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "ENTITY_GROUP",
+      "id" : "102e57a0-596b-11ef-b8b0-73d01487652b"
+    },
     "groupAll" : true,
     "id" : {
       "entityType" : "ENTITY_GROUP",

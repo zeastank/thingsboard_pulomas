@@ -10,7 +10,10 @@
       "entityType" : "DEVICE",
       "id" : "0ee47a70-7994-11ef-bc66-95d41aad3098"
     },
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "ENTITY_VIEW",
+      "id" : "20313190-86a7-11ef-bc66-95d41aad3098"
+    },
     "keys" : {
       "attributes" : {
         "cs" : null,

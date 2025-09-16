@@ -21,7 +21,10 @@
       }
     },
     "etag" : "d775b8bc34c4b973d9b7614d2549cf37dc9b5d4a8d99489015e0397018a1c80b",
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "TB_RESOURCE",
+      "id" : "cfd33400-70a3-11ef-bc66-95d41aad3098"
+    },
     "fileName" : "run.png",
     "id" : {
       "entityType" : "TB_RESOURCE",
@@ -37,9 +40,5 @@
     "resourceSubType" : "IMAGE",
     "resourceType" : "IMAGE",
     "title" : "run.png"
-  },
-  "relations" : [ ],
-  "attributes" : {
-    "SERVER_SCOPE" : [ ]
   }
 }

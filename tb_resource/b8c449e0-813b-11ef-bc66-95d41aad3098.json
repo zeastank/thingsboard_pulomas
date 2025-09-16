@@ -21,7 +21,10 @@
       }
     },
     "etag" : "a9fbb25becc638e76567e9af67fbc8da4e159bae911ad99d321455f6cb9ee54b",
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "TB_RESOURCE",
+      "id" : "b8c449e0-813b-11ef-bc66-95d41aad3098"
+    },
     "fileName" : "Ripple@1x-1.2s-200px-200px.svg",
     "id" : {
       "entityType" : "TB_RESOURCE",
@@ -37,9 +40,5 @@
     "resourceSubType" : "IMAGE",
     "resourceType" : "IMAGE",
     "title" : "Ripple@1x-1.2s-200px-200px.svg"
-  },
-  "relations" : [ ],
-  "attributes" : {
-    "SERVER_SCOPE" : [ ]
   }
 }

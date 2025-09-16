@@ -16,12 +16,15 @@
         "mediaType" : "image/png",
         "width" : 250,
         "height" : 140,
-        "size" : 50183,
-        "etag" : "0476729bf513c8ceba47b8d7449cfa96b85d58b75ced45f91c26798cce3107cb"
+        "size" : 49348,
+        "etag" : "d6c9885e885a77b06cee077483572fb0b2cd9bc32a2baf8263ea73e5477b518c"
       }
     },
     "etag" : "62137bd0fb6d77226999b91f255226c0623315ac803b6a0784ccbceca9b8c9f5",
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "TB_RESOURCE",
+      "id" : "ab4035e0-6f7a-11ef-bc66-95d41aad3098"
+    },
     "fileName" : "gep-smart-procurement-software-savings-tracking-savings-dashboard-opt-2.jpg",
     "id" : {
       "entityType" : "TB_RESOURCE",
@@ -37,9 +40,5 @@
     "resourceSubType" : "IMAGE",
     "resourceType" : "IMAGE",
     "title" : "gep-smart-procurement-software-savings-tracking-savings-dashboard-opt-2.jpg"
-  },
-  "relations" : [ ],
-  "attributes" : {
-    "SERVER_SCOPE" : [ ]
   }
 }

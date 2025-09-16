@@ -16,12 +16,15 @@
         "mediaType" : "image/png",
         "width" : 250,
         "height" : 176,
-        "size" : 50754,
-        "etag" : "15bc3a95a97f0a2a713520f23d92a9320b011c7d6803933e81e2ac9fd5cc31de"
+        "size" : 48060,
+        "etag" : "04fd3602a6782a0c778593ed4c28518491f51d230f08a1af0cd4010717674d6f"
       }
     },
     "etag" : "22d1165dc54f7fe9c7d65b1bffb73597e9fa71040d0730ed859a9cf872363dfe",
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "TB_RESOURCE",
+      "id" : "0c0f39b0-6e78-11ef-bc66-95d41aad3098"
+    },
     "fileName" : "smart-city-background-it-s-an-unmanned-smart-city-pixel-concept-city-with-a-system-to-connect-people-in-the-city-through-a-network-system-and-made-business-in-the-city-expand-vector.jpg",
     "id" : {
       "entityType" : "TB_RESOURCE",
@@ -37,9 +40,5 @@
     "resourceSubType" : "IMAGE",
     "resourceType" : "IMAGE",
     "title" : "smart-city-background-it-s-an-unmanned-smart-city-pixel-concept-city-with-a-system-to-connect-people-in-the-city-through-a-network-system-and-made-business-in-the-city-expand-vector.jpg"
-  },
-  "relations" : [ ],
-  "attributes" : {
-    "SERVER_SCOPE" : [ ]
   }
 }

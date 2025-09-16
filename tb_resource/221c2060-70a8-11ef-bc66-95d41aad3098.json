@@ -21,7 +21,10 @@
       }
     },
     "etag" : "4b0af70f355db6b4ddfabb7695826479f8645db97686669cccceff4f7724ce18",
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "TB_RESOURCE",
+      "id" : "221c2060-70a8-11ef-bc66-95d41aad3098"
+    },
     "fileName" : "stop 2.png",
     "id" : {
       "entityType" : "TB_RESOURCE",
@@ -37,9 +40,5 @@
     "resourceSubType" : "IMAGE",
     "resourceType" : "IMAGE",
     "title" : "stop 2.png"
-  },
-  "relations" : [ ],
-  "attributes" : {
-    "SERVER_SCOPE" : [ ]
   }
 }

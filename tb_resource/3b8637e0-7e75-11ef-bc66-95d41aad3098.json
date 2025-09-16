@@ -16,12 +16,15 @@
         "mediaType" : "image/png",
         "width" : 250,
         "height" : 94,
-        "size" : 10989,
-        "etag" : "eea3ac9da2115fbd266c50fbbb658d19d544291eaf26d98a1f06de6f299bbbe5"
+        "size" : 10271,
+        "etag" : "ac30c05b2bace60aa415862a74dd331d36903716cb713d5d57da9c7358bcf759"
       }
     },
     "etag" : "db113faf57d7a53b901c6314137dcd3670bf0ad52849f20f60f9acd14c246cbe",
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "TB_RESOURCE",
+      "id" : "3b8637e0-7e75-11ef-bc66-95d41aad3098"
+    },
     "fileName" : "pm2 v2.png",
     "id" : {
       "entityType" : "TB_RESOURCE",
@@ -37,9 +40,5 @@
     "resourceSubType" : "IMAGE",
     "resourceType" : "IMAGE",
     "title" : "pm2 v2.png"
-  },
-  "relations" : [ ],
-  "attributes" : {
-    "SERVER_SCOPE" : [ ]
   }
 }

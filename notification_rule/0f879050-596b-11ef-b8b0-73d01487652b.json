@@ -5,7 +5,10 @@
       "description" : "Send notification to tenant admins when any alarm is updated or cleared"
     },
     "enabled" : true,
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "NOTIFICATION_RULE",
+      "id" : "0f879050-596b-11ef-b8b0-73d01487652b"
+    },
     "id" : {
       "entityType" : "NOTIFICATION_RULE",
       "id" : "0f879050-596b-11ef-b8b0-73d01487652b"
@@ -26,13 +29,9 @@
       "alarmSeverities" : null,
       "alarmTypes" : null,
       "clearRule" : null,
-      "notifyOn" : [ "SEVERITY_CHANGED", "CLEARED", "ACKNOWLEDGED" ],
+      "notifyOn" : [ "CLEARED", "ACKNOWLEDGED", "SEVERITY_CHANGED" ],
       "triggerType" : "ALARM"
     },
     "triggerType" : "ALARM"
-  },
-  "relations" : [ ],
-  "attributes" : {
-    "SERVER_SCOPE" : [ ]
   }
 }

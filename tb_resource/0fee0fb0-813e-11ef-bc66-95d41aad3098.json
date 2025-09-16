@@ -21,7 +21,10 @@
       }
     },
     "etag" : "68ace3d46af9dc3fb618d65e1a0e510c9a92626612d1eadc3e9ebb5773f2ef65",
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "TB_RESOURCE",
+      "id" : "0fee0fb0-813e-11ef-bc66-95d41aad3098"
+    },
     "fileName" : "Pulse@1x-1.9s-200px-200px.svg",
     "id" : {
       "entityType" : "TB_RESOURCE",
@@ -37,9 +40,5 @@
     "resourceSubType" : "IMAGE",
     "resourceType" : "IMAGE",
     "title" : "Pulse@1x-1.9s-200px-200px.svg"
-  },
-  "relations" : [ ],
-  "attributes" : {
-    "SERVER_SCOPE" : [ ]
   }
 }

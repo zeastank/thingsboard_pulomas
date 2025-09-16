@@ -26,7 +26,10 @@
       "actions" : { }
     },
     "edgeGroupAll" : false,
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "ENTITY_GROUP",
+      "id" : "10397b30-596b-11ef-b8b0-73d01487652b"
+    },
     "groupAll" : false,
     "id" : {
       "entityType" : "ENTITY_GROUP",
@@ -53,16 +56,16 @@
     },
     "tenantId" : {
       "entityType" : "TENANT",
-      "id" : "0eca81e0-596b-11ef-b8b0-73d01487652b"
+      "id" : "46a341a0-9179-11f0-bf85-f15ad45fc0bf"
     },
     "userGroupId" : {
       "entityType" : "ENTITY_GROUP",
       "id" : "10397b30-596b-11ef-b8b0-73d01487652b"
     },
-    "createdTime" : 1723550184038,
+    "createdTime" : 1757861704537,
     "id" : {
       "entityType" : "GROUP_PERMISSION",
-      "id" : "1039f060-596b-11ef-b8b0-73d01487652b"
+      "id" : "cc230490-917a-11f0-bf85-f15ad45fc0bf"
     },
     "name" : "GENERIC_[10397b30-596b-11ef-b8b0-73d01487652b]_[10302c60-596b-11ef-b8b0-73d01487652b]",
     "public" : false
@@ -78,16 +81,16 @@
     },
     "tenantId" : {
       "entityType" : "TENANT",
-      "id" : "0eca81e0-596b-11ef-b8b0-73d01487652b"
+      "id" : "46a341a0-9179-11f0-bf85-f15ad45fc0bf"
     },
     "userGroupId" : {
       "entityType" : "ENTITY_GROUP",
       "id" : "10397b30-596b-11ef-b8b0-73d01487652b"
     },
-    "createdTime" : 1723550185222,
+    "createdTime" : 1757862574730,
     "id" : {
       "entityType" : "GROUP_PERMISSION",
-      "id" : "10ee9a60-596b-11ef-b8b0-73d01487652b"
+      "id" : "d2cfeea0-917c-11f0-bf85-f15ad45fc0bf"
     },
     "name" : "GROUP_[10397b30-596b-11ef-b8b0-73d01487652b]_[10c651e0-596b-11ef-b8b0-73d01487652b]_[10ecc5a0-596b-11ef-b8b0-73d01487652b]_[DEVICE]",
     "public" : false

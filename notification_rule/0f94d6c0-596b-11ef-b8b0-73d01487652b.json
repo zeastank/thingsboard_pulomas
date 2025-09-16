@@ -5,7 +5,10 @@
       "description" : "Send notification to tenant admins when communication failures occur"
     },
     "enabled" : true,
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "NOTIFICATION_RULE",
+      "id" : "0f94d6c0-596b-11ef-b8b0-73d01487652b"
+    },
     "id" : {
       "entityType" : "NOTIFICATION_RULE",
       "id" : "0f94d6c0-596b-11ef-b8b0-73d01487652b"
@@ -25,9 +28,5 @@
       "triggerType" : "EDGE_COMMUNICATION_FAILURE"
     },
     "triggerType" : "EDGE_COMMUNICATION_FAILURE"
-  },
-  "relations" : [ ],
-  "attributes" : {
-    "SERVER_SCOPE" : [ ]
   }
 }

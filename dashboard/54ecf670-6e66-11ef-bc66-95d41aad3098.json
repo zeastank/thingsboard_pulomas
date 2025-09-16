@@ -1,7 +1,10 @@
 {
   "entityType" : "DASHBOARD",
   "entity" : {
-    "assignedCustomers" : null,
+    "title" : "test",
+    "image" : null,
+    "mobileHide" : false,
+    "mobileOrder" : null,
     "configuration" : {
       "description" : "",
       "widgets" : {
@@ -517,18 +520,19 @@
         "toolbarAlwaysOpen" : true
       }
     },
+    "name" : "test",
+    "resources" : null,
+    "assignedCustomers" : null,
     "customerId" : null,
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "DASHBOARD",
+      "id" : "54ecf670-6e66-11ef-bc66-95d41aad3098"
+    },
     "id" : {
       "entityType" : "DASHBOARD",
       "id" : "54ecf670-6e66-11ef-bc66-95d41aad3098"
     },
-    "image" : null,
-    "mobileHide" : false,
-    "mobileOrder" : null,
-    "name" : "test",
-    "ownerId" : null,
-    "title" : "test"
+    "ownerId" : null
   },
   "relations" : [ ],
   "attributes" : {

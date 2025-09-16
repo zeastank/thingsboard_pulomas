@@ -6,7 +6,10 @@
     },
     "configuration" : null,
     "debugMode" : false,
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "RULE_CHAIN",
+      "id" : "0fdd9f90-596b-11ef-b8b0-73d01487652b"
+    },
     "firstRuleNodeId" : {
       "entityType" : "RULE_NODE",
       "id" : "0fe42f40-596b-11ef-b8b0-73d01487652b"
@@ -52,11 +55,14 @@
         "layoutY" : 294
       },
       "configuration" : {
-        "defaultTTL" : 0
+        "defaultTTL" : 0,
+        "processingSettings" : {
+          "type" : "ON_EVERY_MESSAGE"
+        }
       },
-      "configurationVersion" : 0,
+      "configurationVersion" : 1,
       "createdTime" : 0,
-      "debugMode" : false,
+      "debugSettings" : null,
       "externalId" : null,
       "id" : {
         "entityType" : "RULE_NODE",
@@ -76,11 +82,14 @@
         "scope" : "CLIENT_SCOPE",
         "notifyDevice" : false,
         "sendAttributesUpdatedNotification" : false,
-        "updateAttributesOnlyOnValueChange" : true
+        "updateAttributesOnlyOnValueChange" : true,
+        "processingSettings" : {
+          "type" : "ON_EVERY_MESSAGE"
+        }
       },
-      "configurationVersion" : 2,
+      "configurationVersion" : 3,
       "createdTime" : 0,
-      "debugMode" : false,
+      "debugSettings" : null,
       "externalId" : null,
       "id" : {
         "entityType" : "RULE_NODE",
@@ -101,7 +110,7 @@
       },
       "configurationVersion" : 0,
       "createdTime" : 0,
-      "debugMode" : false,
+      "debugSettings" : null,
       "externalId" : null,
       "id" : {
         "entityType" : "RULE_NODE",
@@ -124,7 +133,7 @@
       },
       "configurationVersion" : 0,
       "createdTime" : 0,
-      "debugMode" : false,
+      "debugSettings" : null,
       "externalId" : null,
       "id" : {
         "entityType" : "RULE_NODE",
@@ -147,7 +156,7 @@
       },
       "configurationVersion" : 0,
       "createdTime" : 0,
-      "debugMode" : false,
+      "debugSettings" : null,
       "externalId" : null,
       "id" : {
         "entityType" : "RULE_NODE",
@@ -168,7 +177,7 @@
       },
       "configurationVersion" : 0,
       "createdTime" : 0,
-      "debugMode" : false,
+      "debugSettings" : null,
       "externalId" : null,
       "id" : {
         "entityType" : "RULE_NODE",
@@ -191,7 +200,7 @@
       },
       "configurationVersion" : 1,
       "createdTime" : 0,
-      "debugMode" : false,
+      "debugSettings" : null,
       "externalId" : null,
       "id" : {
         "entityType" : "RULE_NODE",

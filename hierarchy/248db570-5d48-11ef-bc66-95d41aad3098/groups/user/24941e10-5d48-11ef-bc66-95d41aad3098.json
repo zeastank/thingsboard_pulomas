@@ -26,7 +26,10 @@
       "actions" : { }
     },
     "edgeGroupAll" : false,
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "ENTITY_GROUP",
+      "id" : "24941e10-5d48-11ef-bc66-95d41aad3098"
+    },
     "groupAll" : false,
     "id" : {
       "entityType" : "ENTITY_GROUP",
@@ -45,6 +48,28 @@
   },
   "groupEntities" : true,
   "permissions" : [ {
+    "entityGroupId" : null,
+    "entityGroupType" : null,
+    "roleId" : {
+      "entityType" : "ROLE",
+      "id" : "2496dd30-5d48-11ef-bc66-95d41aad3098"
+    },
+    "tenantId" : {
+      "entityType" : "TENANT",
+      "id" : "46a341a0-9179-11f0-bf85-f15ad45fc0bf"
+    },
+    "userGroupId" : {
+      "entityType" : "ENTITY_GROUP",
+      "id" : "24941e10-5d48-11ef-bc66-95d41aad3098"
+    },
+    "createdTime" : 1757861704578,
+    "id" : {
+      "entityType" : "GROUP_PERMISSION",
+      "id" : "cc294620-917a-11f0-bf85-f15ad45fc0bf"
+    },
+    "name" : "GENERIC_[24941e10-5d48-11ef-bc66-95d41aad3098]_[2496dd30-5d48-11ef-bc66-95d41aad3098]",
+    "public" : false
+  }, {
     "entityGroupId" : {
       "entityType" : "ENTITY_GROUP",
       "id" : "0ef9cf40-596b-11ef-b8b0-73d01487652b"
@@ -56,41 +81,19 @@
     },
     "tenantId" : {
       "entityType" : "TENANT",
-      "id" : "0eca81e0-596b-11ef-b8b0-73d01487652b"
+      "id" : "46a341a0-9179-11f0-bf85-f15ad45fc0bf"
     },
     "userGroupId" : {
       "entityType" : "ENTITY_GROUP",
       "id" : "24941e10-5d48-11ef-bc66-95d41aad3098"
     },
-    "createdTime" : 1723975375012,
+    "createdTime" : 1757862577199,
     "id" : {
       "entityType" : "GROUP_PERMISSION",
-      "id" : "09cbc640-5d49-11ef-bc66-95d41aad3098"
+      "id" : "d448d300-917c-11f0-bf85-f15ad45fc0bf"
     },
     "name" : "GROUP_[24941e10-5d48-11ef-bc66-95d41aad3098]_[249c0d50-5d48-11ef-bc66-95d41aad3098]_[0ef9cf40-596b-11ef-b8b0-73d01487652b]_[DEVICE]",
     "public" : true
-  }, {
-    "entityGroupId" : null,
-    "entityGroupType" : null,
-    "roleId" : {
-      "entityType" : "ROLE",
-      "id" : "2496dd30-5d48-11ef-bc66-95d41aad3098"
-    },
-    "tenantId" : {
-      "entityType" : "TENANT",
-      "id" : "0eca81e0-596b-11ef-b8b0-73d01487652b"
-    },
-    "userGroupId" : {
-      "entityType" : "ENTITY_GROUP",
-      "id" : "24941e10-5d48-11ef-bc66-95d41aad3098"
-    },
-    "createdTime" : 1723974990474,
-    "id" : {
-      "entityType" : "GROUP_PERMISSION",
-      "id" : "2497eea0-5d48-11ef-bc66-95d41aad3098"
-    },
-    "name" : "GENERIC_[24941e10-5d48-11ef-bc66-95d41aad3098]_[2496dd30-5d48-11ef-bc66-95d41aad3098]",
-    "public" : false
   }, {
     "entityGroupId" : {
       "entityType" : "ENTITY_GROUP",
@@ -103,16 +106,16 @@
     },
     "tenantId" : {
       "entityType" : "TENANT",
-      "id" : "0eca81e0-596b-11ef-b8b0-73d01487652b"
+      "id" : "46a341a0-9179-11f0-bf85-f15ad45fc0bf"
     },
     "userGroupId" : {
       "entityType" : "ENTITY_GROUP",
       "id" : "24941e10-5d48-11ef-bc66-95d41aad3098"
     },
-    "createdTime" : 1723974990518,
+    "createdTime" : 1757862577200,
     "id" : {
       "entityType" : "GROUP_PERMISSION",
-      "id" : "249ea560-5d48-11ef-bc66-95d41aad3098"
+      "id" : "d448d301-917c-11f0-bf85-f15ad45fc0bf"
     },
     "name" : "GROUP_[24941e10-5d48-11ef-bc66-95d41aad3098]_[249c0d50-5d48-11ef-bc66-95d41aad3098]_[0ef98120-596b-11ef-b8b0-73d01487652b]_[DASHBOARD]",
     "public" : true
@@ -128,16 +131,16 @@
     },
     "tenantId" : {
       "entityType" : "TENANT",
-      "id" : "0eca81e0-596b-11ef-b8b0-73d01487652b"
+      "id" : "46a341a0-9179-11f0-bf85-f15ad45fc0bf"
     },
     "userGroupId" : {
       "entityType" : "ENTITY_GROUP",
       "id" : "24941e10-5d48-11ef-bc66-95d41aad3098"
     },
-    "createdTime" : 1725471011061,
+    "createdTime" : 1757862577200,
     "id" : {
       "entityType" : "GROUP_PERMISSION",
-      "id" : "5659a250-6ae3-11ef-bc66-95d41aad3098"
+      "id" : "d448d302-917c-11f0-bf85-f15ad45fc0bf"
     },
     "name" : "GROUP_[24941e10-5d48-11ef-bc66-95d41aad3098]_[249c0d50-5d48-11ef-bc66-95d41aad3098]_[51631090-5d48-11ef-bc66-95d41aad3098]_[DASHBOARD]",
     "public" : true
@@ -153,16 +156,16 @@
     },
     "tenantId" : {
       "entityType" : "TENANT",
-      "id" : "0eca81e0-596b-11ef-b8b0-73d01487652b"
+      "id" : "46a341a0-9179-11f0-bf85-f15ad45fc0bf"
     },
     "userGroupId" : {
       "entityType" : "ENTITY_GROUP",
       "id" : "24941e10-5d48-11ef-bc66-95d41aad3098"
     },
-    "createdTime" : 1730442078965,
+    "createdTime" : 1757862577200,
     "id" : {
       "entityType" : "GROUP_PERMISSION",
-      "id" : "81b74250-9819-11ef-9d34-ef917f8eaa89"
+      "id" : "d448d303-917c-11f0-bf85-f15ad45fc0bf"
     },
     "name" : "GROUP_[24941e10-5d48-11ef-bc66-95d41aad3098]_[249c0d50-5d48-11ef-bc66-95d41aad3098]_[6827d520-9819-11ef-9d34-ef917f8eaa89]_[DASHBOARD]",
     "public" : true
@@ -178,16 +181,16 @@
     },
     "tenantId" : {
       "entityType" : "TENANT",
-      "id" : "0eca81e0-596b-11ef-b8b0-73d01487652b"
+      "id" : "46a341a0-9179-11f0-bf85-f15ad45fc0bf"
     },
     "userGroupId" : {
       "entityType" : "ENTITY_GROUP",
       "id" : "24941e10-5d48-11ef-bc66-95d41aad3098"
     },
-    "createdTime" : 1728598379381,
+    "createdTime" : 1757862577200,
     "id" : {
       "entityType" : "GROUP_PERMISSION",
-      "id" : "cf20ca50-8754-11ef-9d34-ef917f8eaa89"
+      "id" : "d448d304-917c-11f0-bf85-f15ad45fc0bf"
     },
     "name" : "GROUP_[24941e10-5d48-11ef-bc66-95d41aad3098]_[249c0d50-5d48-11ef-bc66-95d41aad3098]_[a7e0e0b0-8754-11ef-9d34-ef917f8eaa89]_[DASHBOARD]",
     "public" : true
@@ -203,16 +206,16 @@
     },
     "tenantId" : {
       "entityType" : "TENANT",
-      "id" : "0eca81e0-596b-11ef-b8b0-73d01487652b"
+      "id" : "46a341a0-9179-11f0-bf85-f15ad45fc0bf"
     },
     "userGroupId" : {
       "entityType" : "ENTITY_GROUP",
       "id" : "24941e10-5d48-11ef-bc66-95d41aad3098"
     },
-    "createdTime" : 1726024866394,
+    "createdTime" : 1757862577200,
     "id" : {
       "entityType" : "GROUP_PERMISSION",
-      "id" : "e1da9ba0-6fec-11ef-bc66-95d41aad3098"
+      "id" : "d448d305-917c-11f0-bf85-f15ad45fc0bf"
     },
     "name" : "GROUP_[24941e10-5d48-11ef-bc66-95d41aad3098]_[249c0d50-5d48-11ef-bc66-95d41aad3098]_[d84d14f0-6fec-11ef-bc66-95d41aad3098]_[DASHBOARD]",
     "public" : true
