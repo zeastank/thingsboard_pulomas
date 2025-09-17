@@ -1,7 +1,9 @@
 {
   "entityType" : "ENTITY_GROUP",
   "entity" : {
-    "additionalInfo" : null,
+    "additionalInfo" : {
+      "description" : ""
+    },
     "configuration" : {
       "columns" : [ {
         "type" : "ENTITY_FIELD",
@@ -24,16 +26,13 @@
       "actions" : { }
     },
     "edgeGroupAll" : false,
-    "externalId" : {
-      "entityType" : "ENTITY_GROUP",
-      "id" : "0ef95a10-596b-11ef-b8b0-73d01487652b"
-    },
-    "groupAll" : true,
+    "externalId" : null,
+    "groupAll" : false,
     "id" : {
       "entityType" : "ENTITY_GROUP",
-      "id" : "0ef95a10-596b-11ef-b8b0-73d01487652b"
+      "id" : "9d6ddc10-931e-11f0-bf85-f15ad45fc0bf"
     },
-    "name" : "All",
+    "name" : "SDA Jakarta Timur Group",
     "ownerId" : {
       "entityType" : "TENANT",
       "id" : "46a341a0-9179-11f0-bf85-f15ad45fc0bf"
@@ -46,14 +45,11 @@
   },
   "groupEntities" : true,
   "permissions" : [ {
-    "entityGroupId" : {
-      "entityType" : "ENTITY_GROUP",
-      "id" : "b9e30ea0-931f-11f0-bf85-f15ad45fc0bf"
-    },
-    "entityGroupType" : "DEVICE",
+    "entityGroupId" : null,
+    "entityGroupType" : null,
     "roleId" : {
       "entityType" : "ROLE",
-      "id" : "10c651e0-596b-11ef-b8b0-73d01487652b"
+      "id" : "10318bf0-596b-11ef-b8b0-73d01487652b"
     },
     "tenantId" : {
       "entityType" : "TENANT",
@@ -61,19 +57,19 @@
     },
     "userGroupId" : {
       "entityType" : "ENTITY_GROUP",
-      "id" : "0ef95a10-596b-11ef-b8b0-73d01487652b"
+      "id" : "9d6ddc10-931e-11f0-bf85-f15ad45fc0bf"
     },
-    "createdTime" : 1758120154300,
+    "createdTime" : 1758110941865,
     "id" : {
       "entityType" : "GROUP_PERMISSION",
-      "id" : "8c332fc0-93d4-11f0-bf85-f15ad45fc0bf"
+      "id" : "19292990-93bf-11f0-bf85-f15ad45fc0bf"
     },
-    "name" : "GROUP_[0ef95a10-596b-11ef-b8b0-73d01487652b]_[10c651e0-596b-11ef-b8b0-73d01487652b]_[b9e30ea0-931f-11f0-bf85-f15ad45fc0bf]_[DEVICE]",
+    "name" : "GENERIC_[9d6ddc10-931e-11f0-bf85-f15ad45fc0bf]_[10318bf0-596b-11ef-b8b0-73d01487652b]",
     "public" : false
   }, {
     "entityGroupId" : {
       "entityType" : "ENTITY_GROUP",
-      "id" : "b9e30ea0-931f-11f0-bf85-f15ad45fc0bf"
+      "id" : "0ef9cf40-596b-11ef-b8b0-73d01487652b"
     },
     "entityGroupType" : "DEVICE",
     "roleId" : {
@@ -86,14 +82,39 @@
     },
     "userGroupId" : {
       "entityType" : "ENTITY_GROUP",
-      "id" : "0ef95a10-596b-11ef-b8b0-73d01487652b"
+      "id" : "9d6ddc10-931e-11f0-bf85-f15ad45fc0bf"
     },
-    "createdTime" : 1758042492235,
+    "createdTime" : 1758120466959,
     "id" : {
       "entityType" : "GROUP_PERMISSION",
-      "id" : "ba0081b0-931f-11f0-bf85-f15ad45fc0bf"
+      "id" : "468f29f0-93d5-11f0-bf85-f15ad45fc0bf"
     },
-    "name" : "GROUP_[0ef95a10-596b-11ef-b8b0-73d01487652b]_[10c651e0-596b-11ef-b8b0-73d01487652b]_[b9e30ea0-931f-11f0-bf85-f15ad45fc0bf]_[DEVICE]",
+    "name" : "GROUP_[9d6ddc10-931e-11f0-bf85-f15ad45fc0bf]_[10c651e0-596b-11ef-b8b0-73d01487652b]_[0ef9cf40-596b-11ef-b8b0-73d01487652b]_[DEVICE]",
+    "public" : false
+  }, {
+    "entityGroupId" : {
+      "entityType" : "ENTITY_GROUP",
+      "id" : "0ef98120-596b-11ef-b8b0-73d01487652b"
+    },
+    "entityGroupType" : "DASHBOARD",
+    "roleId" : {
+      "entityType" : "ROLE",
+      "id" : "10c651e0-596b-11ef-b8b0-73d01487652b"
+    },
+    "tenantId" : {
+      "entityType" : "TENANT",
+      "id" : "46a341a0-9179-11f0-bf85-f15ad45fc0bf"
+    },
+    "userGroupId" : {
+      "entityType" : "ENTITY_GROUP",
+      "id" : "9d6ddc10-931e-11f0-bf85-f15ad45fc0bf"
+    },
+    "createdTime" : 1758120496542,
+    "id" : {
+      "entityType" : "GROUP_PERMISSION",
+      "id" : "58312be0-93d5-11f0-bf85-f15ad45fc0bf"
+    },
+    "name" : "GROUP_[9d6ddc10-931e-11f0-bf85-f15ad45fc0bf]_[10c651e0-596b-11ef-b8b0-73d01487652b]_[0ef98120-596b-11ef-b8b0-73d01487652b]_[DASHBOARD]",
     "public" : false
   } ]
 }

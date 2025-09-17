@@ -24,23 +24,23 @@
     },
     "externalId" : {
       "entityType" : "DEVICE",
-      "id" : "630f6830-5d47-11ef-bc66-95d41aad3098"
+      "id" : "3eb8dd20-7a36-11ef-bc66-95d41aad3098"
     },
     "firmwareId" : null,
     "id" : {
       "entityType" : "DEVICE",
-      "id" : "630f6830-5d47-11ef-bc66-95d41aad3098"
+      "id" : "3eb8dd20-7a36-11ef-bc66-95d41aad3098"
     },
     "label" : "",
-    "name" : "Sringin",
+    "name" : "Pulomas_2",
     "ownerId" : null,
     "softwareId" : null,
     "type" : "Pulomas"
   },
   "credentials" : {
-    "credentialsId" : "a65668eba6f9eb761fc57c657f7546cd4788f6208ff0489b98874f4eb3b736e4",
+    "credentialsId" : "664f94585075a247ccc472908cf67c1da0e8696f2be9da6e306bb3ed5e1b5c66",
     "credentialsType" : "MQTT_BASIC",
-    "credentialsValue" : "{\"clientId\":\"sringin\",\"userName\":\"admin\",\"password\":\"gedanggoreng\"}"
+    "credentialsValue" : "{\"clientId\":\"Pulomas_2\",\"userName\":\"admin\",\"password\":\"gedanggoreng\"}"
   },
   "relations" : [ ],
   "attributes" : {
@@ -49,7 +49,7 @@
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "active",
-      "lastUpdateTs" : 1757862578030,
+      "lastUpdateTs" : 1757862580305,
       "longValue" : null,
       "strValue" : null
     }, {
@@ -57,35 +57,51 @@
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "inactivityAlarmTime",
-      "lastUpdateTs" : 1732347894992,
-      "longValue" : 0,
+      "lastUpdateTs" : 1732144192951,
+      "longValue" : 1732144192951,
       "strValue" : null
     }, {
       "booleanValue" : null,
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "lastActivityTime",
-      "lastUpdateTs" : 1758127971788,
-      "longValue" : 1758127971542,
+      "lastUpdateTs" : 1758127974782,
+      "longValue" : 1758127974515,
       "strValue" : null
     }, {
       "booleanValue" : null,
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "lastConnectTime",
-      "lastUpdateTs" : 1758121550782,
-      "longValue" : 1758121550782,
+      "lastUpdateTs" : 1758119655494,
+      "longValue" : 1758119655494,
       "strValue" : null
     }, {
       "booleanValue" : null,
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "lastDisconnectTime",
-      "lastUpdateTs" : 1733102130844,
-      "longValue" : 1733102130844,
+      "lastUpdateTs" : 1758119653394,
+      "longValue" : 1758119653394,
       "strValue" : null
     } ],
-    "SHARED_SCOPE" : [ ]
+    "SHARED_SCOPE" : [ {
+      "booleanValue" : null,
+      "doubleValue" : -6.168153276090324,
+      "jsonValue" : null,
+      "key" : "latitude",
+      "lastUpdateTs" : 1728594721703,
+      "longValue" : null,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : 106.88108297825576,
+      "jsonValue" : null,
+      "key" : "longitude",
+      "lastUpdateTs" : 1728594739744,
+      "longValue" : null,
+      "strValue" : null
+    } ]
   },
   "calculatedFields" : [ ]
 }

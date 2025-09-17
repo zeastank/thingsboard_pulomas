@@ -1,0 +1,227 @@
+{
+  "entityType" : "DEVICE",
+  "entity" : {
+    "additionalInfo" : {
+      "gateway" : false,
+      "overwriteActivityTime" : false,
+      "description" : ""
+    },
+    "customerId" : {
+      "entityType" : "CUSTOMER",
+      "id" : "13814000-1dd2-11b2-8080-808080808080"
+    },
+    "deviceData" : {
+      "configuration" : {
+        "type" : "DEFAULT"
+      },
+      "transportConfiguration" : {
+        "type" : "DEFAULT"
+      }
+    },
+    "deviceProfileId" : {
+      "entityType" : "DEVICE_PROFILE",
+      "id" : "0f392230-596b-11ef-b8b0-73d01487652b"
+    },
+    "externalId" : {
+      "entityType" : "DEVICE",
+      "id" : "0ee47a70-7994-11ef-bc66-95d41aad3098"
+    },
+    "firmwareId" : null,
+    "id" : {
+      "entityType" : "DEVICE",
+      "id" : "0ee47a70-7994-11ef-bc66-95d41aad3098"
+    },
+    "label" : "",
+    "name" : "Pulomas_1",
+    "ownerId" : null,
+    "softwareId" : null,
+    "type" : "Pulomas"
+  },
+  "credentials" : {
+    "credentialsId" : "8ffabbc7b45c747070e72bd4535b8c40ebf30dd1b793c1d310f0d29956af2a85",
+    "credentialsType" : "MQTT_BASIC",
+    "credentialsValue" : "{\"clientId\":\"Pulomas_1\",\"userName\":\"admin\",\"password\":\"gedanggoreng\"}"
+  },
+  "relations" : [ ],
+  "attributes" : {
+    "SERVER_SCOPE" : [ {
+      "booleanValue" : true,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "active",
+      "lastUpdateTs" : 1757862578039,
+      "longValue" : null,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "inactivityAlarmTime",
+      "lastUpdateTs" : 1733192036223,
+      "longValue" : 1733192036223,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "lastActivityTime",
+      "lastUpdateTs" : 1758127971774,
+      "longValue" : 1758127969824,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "lastConnectTime",
+      "lastUpdateTs" : 1758115082311,
+      "longValue" : 1758115082311,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "lastDisconnectTime",
+      "lastUpdateTs" : 1758029675609,
+      "longValue" : 1758029675609,
+      "strValue" : null
+    } ],
+    "SHARED_SCOPE" : [ {
+      "booleanValue" : false,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "P1_OFF_CMD",
+      "lastUpdateTs" : 1731985979165,
+      "longValue" : null,
+      "strValue" : null
+    }, {
+      "booleanValue" : false,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "P1_ON_CMD",
+      "lastUpdateTs" : 1731250174813,
+      "longValue" : null,
+      "strValue" : null
+    }, {
+      "booleanValue" : false,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "P2_OFF_CMD",
+      "lastUpdateTs" : 1730389651800,
+      "longValue" : null,
+      "strValue" : null
+    }, {
+      "booleanValue" : false,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "P2_ON_CMD",
+      "lastUpdateTs" : 1730389653161,
+      "longValue" : null,
+      "strValue" : null
+    }, {
+      "booleanValue" : false,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "P3_OFF_CMD",
+      "lastUpdateTs" : 1731238291570,
+      "longValue" : null,
+      "strValue" : null
+    }, {
+      "booleanValue" : false,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "P3_ON_CMD",
+      "lastUpdateTs" : 1731238259955,
+      "longValue" : null,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "Pass",
+      "lastUpdateTs" : 1728773339904,
+      "longValue" : 0,
+      "strValue" : null
+    }, {
+      "booleanValue" : false,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "Remote",
+      "lastUpdateTs" : 1732259285499,
+      "longValue" : null,
+      "strValue" : null
+    }, {
+      "booleanValue" : false,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "V1_OFF_CMD",
+      "lastUpdateTs" : 1731986012623,
+      "longValue" : null,
+      "strValue" : null
+    }, {
+      "booleanValue" : false,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "V1_ON_CMD",
+      "lastUpdateTs" : 1731985962181,
+      "longValue" : null,
+      "strValue" : null
+    }, {
+      "booleanValue" : false,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "V2_OFF_CMD",
+      "lastUpdateTs" : 1731230934772,
+      "longValue" : null,
+      "strValue" : null
+    }, {
+      "booleanValue" : false,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "V2_ON_CMD",
+      "lastUpdateTs" : 1731230776943,
+      "longValue" : null,
+      "strValue" : null
+    }, {
+      "booleanValue" : false,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "V3_OFF_CMD",
+      "lastUpdateTs" : 1731230964261,
+      "longValue" : null,
+      "strValue" : null
+    }, {
+      "booleanValue" : false,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "V3_ON_CMD",
+      "lastUpdateTs" : 1731230817572,
+      "longValue" : null,
+      "strValue" : null
+    }, {
+      "booleanValue" : true,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "button",
+      "lastUpdateTs" : 1728731995602,
+      "longValue" : null,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : -6.16655415306722,
+      "jsonValue" : null,
+      "key" : "latitude",
+      "lastUpdateTs" : 1728594654189,
+      "longValue" : null,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : 106.88108736809758,
+      "jsonValue" : null,
+      "key" : "longitude",
+      "lastUpdateTs" : 1728594679345,
+      "longValue" : null,
+      "strValue" : null
+    } ]
+  },
+  "calculatedFields" : [ ]
+}

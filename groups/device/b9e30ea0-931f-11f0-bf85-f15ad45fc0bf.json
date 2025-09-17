@@ -2,9 +2,7 @@
   "entityType" : "ENTITY_GROUP",
   "entity" : {
     "additionalInfo" : {
-      "description" : "",
-      "isPublic" : true,
-      "publicCustomerId" : "cc252770-917a-11f0-bf85-f15ad45fc0bf"
+      "description" : ""
     },
     "configuration" : {
       "columns" : [ {
@@ -13,7 +11,15 @@
         "sortOrder" : "DESC"
       }, {
         "type" : "ENTITY_FIELD",
-        "key" : "title",
+        "key" : "name",
+        "sortOrder" : "NONE"
+      }, {
+        "type" : "ENTITY_FIELD",
+        "key" : "device_profile",
+        "sortOrder" : "NONE"
+      }, {
+        "type" : "ENTITY_FIELD",
+        "key" : "label",
         "sortOrder" : "NONE"
       } ],
       "settings" : { },
@@ -24,18 +30,19 @@
     "groupAll" : false,
     "id" : {
       "entityType" : "ENTITY_GROUP",
-      "id" : "8a55b2d0-9187-11f0-bf85-f15ad45fc0bf"
+      "id" : "b9e30ea0-931f-11f0-bf85-f15ad45fc0bf"
     },
-    "name" : "PULOMAS GROUPS DASHBOARDS",
+    "name" : "PULOMAS GROUPS DEVICES",
     "ownerId" : {
       "entityType" : "TENANT",
       "id" : "46a341a0-9179-11f0-bf85-f15ad45fc0bf"
     },
-    "type" : "DASHBOARD"
+    "type" : "DEVICE"
   },
   "relations" : [ ],
   "attributes" : {
     "SERVER_SCOPE" : [ ]
   },
+  "calculatedFields" : [ ],
   "groupEntities" : true
 }

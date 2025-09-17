@@ -42,7 +42,7 @@
         "scriptLang" : "JS",
         "jsScript" : "var msg = { rotPump: +(Math.random()*12 + 1100).toFixed(1),windTemp: +(Math.random()*12 + 110).toFixed(1), vibMotor: +(Math.random()*11 + 210).toFixed(1), vibBear: +(Math.random()*11 + 190).toFixed(1), load: +(Math.random()*12 + 10).toFixed(1), volt: +(Math.random()*11 + 110).toFixed(1), flowrate: +(Math.random()*11 + 1210).toFixed(1), Totalizer: 10000};\nvar msgType = \"POST_TELEMETRY_REQUEST\";\n\nreturn { msg: msg, msgType: msgType };",
         "tbelScript" : "var msg = { rotPump: +(Math.random()*6 + 25).toFixed(1), humidity: 77 ;\nvar msgType = \"POST_TELEMETRY_REQUEST\";\n\nreturn { msg: msg, metadata: metadata, msgType: msgType };",
-        "originatorId" : "7dc79df0-5d47-11ef-bc66-95d41aad3098",
+        "originatorId" : "d6689b30-917b-11f0-bf85-f15ad45fc0bf",
         "originatorType" : "DEVICE"
       },
       "configurationVersion" : 2,

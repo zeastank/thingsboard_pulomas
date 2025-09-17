@@ -72,6 +72,31 @@
   }, {
     "entityGroupId" : {
       "entityType" : "ENTITY_GROUP",
+      "id" : "8a55b2d0-9187-11f0-bf85-f15ad45fc0bf"
+    },
+    "entityGroupType" : "DASHBOARD",
+    "roleId" : {
+      "entityType" : "ROLE",
+      "id" : "249c0d50-5d48-11ef-bc66-95d41aad3098"
+    },
+    "tenantId" : {
+      "entityType" : "TENANT",
+      "id" : "46a341a0-9179-11f0-bf85-f15ad45fc0bf"
+    },
+    "userGroupId" : {
+      "entityType" : "ENTITY_GROUP",
+      "id" : "24941e10-5d48-11ef-bc66-95d41aad3098"
+    },
+    "createdTime" : 1758127140564,
+    "id" : {
+      "entityType" : "GROUP_PERMISSION",
+      "id" : "d0567940-93e4-11f0-bf85-f15ad45fc0bf"
+    },
+    "name" : "GROUP_[24941e10-5d48-11ef-bc66-95d41aad3098]_[249c0d50-5d48-11ef-bc66-95d41aad3098]_[8a55b2d0-9187-11f0-bf85-f15ad45fc0bf]_[DASHBOARD]",
+    "public" : true
+  }, {
+    "entityGroupId" : {
+      "entityType" : "ENTITY_GROUP",
       "id" : "0ef9cf40-596b-11ef-b8b0-73d01487652b"
     },
     "entityGroupType" : "DEVICE",
@@ -193,31 +218,6 @@
       "id" : "d448d304-917c-11f0-bf85-f15ad45fc0bf"
     },
     "name" : "GROUP_[24941e10-5d48-11ef-bc66-95d41aad3098]_[249c0d50-5d48-11ef-bc66-95d41aad3098]_[a7e0e0b0-8754-11ef-9d34-ef917f8eaa89]_[DASHBOARD]",
-    "public" : true
-  }, {
-    "entityGroupId" : {
-      "entityType" : "ENTITY_GROUP",
-      "id" : "d84d14f0-6fec-11ef-bc66-95d41aad3098"
-    },
-    "entityGroupType" : "DASHBOARD",
-    "roleId" : {
-      "entityType" : "ROLE",
-      "id" : "249c0d50-5d48-11ef-bc66-95d41aad3098"
-    },
-    "tenantId" : {
-      "entityType" : "TENANT",
-      "id" : "46a341a0-9179-11f0-bf85-f15ad45fc0bf"
-    },
-    "userGroupId" : {
-      "entityType" : "ENTITY_GROUP",
-      "id" : "24941e10-5d48-11ef-bc66-95d41aad3098"
-    },
-    "createdTime" : 1757862577200,
-    "id" : {
-      "entityType" : "GROUP_PERMISSION",
-      "id" : "d448d305-917c-11f0-bf85-f15ad45fc0bf"
-    },
-    "name" : "GROUP_[24941e10-5d48-11ef-bc66-95d41aad3098]_[249c0d50-5d48-11ef-bc66-95d41aad3098]_[d84d14f0-6fec-11ef-bc66-95d41aad3098]_[DASHBOARD]",
     "public" : true
   } ]
 }
